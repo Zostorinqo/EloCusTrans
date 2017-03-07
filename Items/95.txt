@@ -1,0 +1,11 @@
+item_id.	95
+name_identJP.	飾り物の鎧
+name_identEN.	decorative armor
+item_desc1JP.	\t\t丁寧に磨かれた鎧。しかし良く見るとメッキで塗装されているだけの粗悪品の様だ。\n#～脱冒険者から始める商いライフ～\n
+item_desc2JP.	
+item_desc3JP.	
+item_desc4JP.	\t\t立派な鎧。装備することは出来ない。\n#～鑑定報告書：＜調度品＞カテゴリ～\n
+item_desc1EN.	
+item_desc2EN.	
+item_desc3EN.	
+item_desc4EN.	A set of decorative armor.

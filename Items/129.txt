@@ -1,0 +1,11 @@
+item_id.	129
+name_identJP.	小さい観葉植物
+name_identEN.	small foliage plant
+item_desc1JP.	\t\t可愛らしい葉をした鉢植え。一人暮らしの令嬢の家には、大抵この植物があるのだという。\n#～ティリス園芸図鑑～\n
+item_desc2JP.	
+item_desc3JP.	
+item_desc4JP.	\t\t観賞用の鉢植えだ。\n#～鑑定報告書：＜鉢＞カテゴリ～\n
+item_desc1EN.	
+item_desc2EN.	
+item_desc3EN.	
+item_desc4EN.	Plants in a pot.

@@ -1,0 +1,11 @@
+item_id.	139
+name_identJP.	花で飾られた柱
+name_identEN.	statue ornamented with flowers
+item_desc1JP.	\t\t天頂に花があしらわれた立派な柱。これは古代の建築様式を復元したものであるという。\n#～ルミエスト美術目録～\n
+item_desc2JP.	
+item_desc3JP.	
+item_desc4JP.	\t\t花の乗った柱だ。\n#～鑑定報告書：＜美術品＞カテゴリ～\n
+item_desc1EN.	
+item_desc2EN.	
+item_desc3EN.	
+item_desc4EN.	A pillar designed after one's common in Eludernia.

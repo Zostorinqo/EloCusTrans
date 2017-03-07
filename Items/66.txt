@@ -1,0 +1,11 @@
+item_id.	66
+name_identJP.	腰当
+name_identEN.	girdle
+item_desc1JP.	\t\t行動を阻害しないようにしつつ、下半身を守る為考案された防具。寒い季節になると軽い素材のこれを身につける婦人もいるようだ。\n#～明日から使えるあなたの為の武具集～\n
+item_desc2JP.	
+item_desc3JP.	
+item_desc4JP.	\t\t腰を守る為の防具だ。\n#～鑑定報告書：＜防具＞カテゴリ～\n
+item_desc1EN.	
+item_desc2EN.	
+item_desc3EN.	
+item_desc4EN.	A type of belt.

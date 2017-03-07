@@ -1,0 +1,11 @@
+item_id.	1041
+name_identJP.	ブロンズコイン
+name_identEN.	bronze coin
+item_desc1JP.	\t\tプラチナ硬貨によく似た硬貨だがブロンズでできている。イルヴァでは流通していないため、貨幣としての使用はできない。偽物と勘違いされることさえある。\n#～世界のコイン・ティリス編～\n
+item_desc2JP.	
+item_desc3JP.	
+item_desc4JP.	\t\tこの世界の物ではないコインだ。\n#～鑑定報告書：＜貨幣＞カテゴリ～\n
+item_desc1EN.	
+item_desc2EN.	
+item_desc3EN.	
+item_desc4EN.	This's not coins that of the world.

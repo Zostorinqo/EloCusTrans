@@ -1,0 +1,11 @@
+item_id.	148
+name_identJP.	散らかった本
+name_identEN.	disorderly book
+item_desc1JP.	\t\t読了後、片づけられなかった本。殆どが大衆雑誌なので、特に読むべき情報はないだろう。\n#～家庭を彩る日用雑貨～\n
+item_desc2JP.	
+item_desc3JP.	
+item_desc4JP.	\t\t散乱した本。使用することは出来ない。\n#～鑑定報告書：＜書類＞カテゴリ～\n
+item_desc1EN.	
+item_desc2EN.	
+item_desc3EN.	
+item_desc4EN.	This is just a mess!

@@ -1,0 +1,11 @@
+item_id.	92
+name_identJP.	お洒落な椅子
+name_identEN.	modern chair
+item_desc1JP.	\t\t誰もが一瞬心奪われるという椅子。触り心地もしっとりとしていて、まさに理想の椅子といえよう。\n#～ノースティリス大家具事典～\n
+item_desc2JP.	
+item_desc3JP.	
+item_desc4JP.	\t\t美しい加工の椅子。使用することが出来る。\n#～鑑定報告書：＜家具＞カテゴリ～\n
+item_desc1EN.	
+item_desc2EN.	
+item_desc3EN.	
+item_desc4EN.	A chair made in Asseria.

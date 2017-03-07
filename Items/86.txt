@@ -1,0 +1,11 @@
+item_id.	86
+name_identJP.	たくさんの雑貨
+name_identEN.	goods
+item_desc1JP.	\t\t山ほどの品が整然と収納された棚。選びやすいよう同じ種類に纏められている。\n#～ノースティリス大家具事典～\n
+item_desc2JP.	
+item_desc3JP.	
+item_desc4JP.	\t\t雑貨が陳列された小棚だ。\n#～鑑定報告書：＜家具＞カテゴリ～\n
+item_desc1EN.	
+item_desc2EN.	
+item_desc3EN.	
+item_desc4EN.	A display case for various gift items.

@@ -1,0 +1,11 @@
+item_id.	512
+name_identJP.	光子銃
+name_identEN.	laser gun
+item_desc1JP.	\t\t特殊な弾丸を装填することで、発射孔から質量のある光線を発射する銃器。距離が延びるごとに威力が衰える他の射撃武器とは違い、殆ど威力が衰えない優れものだ。\n#～明日から使えるあなたの為の武具集～\n
+item_desc2JP.	
+item_desc3JP.	
+item_desc4JP.	\t\t弾と共に使用する射撃武器。距離による減衰は殆どない。\n#～鑑定報告書：＜武器＞カテゴリ～\n
+item_desc1EN.	
+item_desc2EN.	
+item_desc3EN.	
+item_desc4EN.	A remnant of ancient times.

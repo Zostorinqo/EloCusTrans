@@ -1,0 +1,11 @@
+item_id.	50
+name_identJP.	ά‚κ‚½n
+name_identEN.	broken sword
+item_desc1JP.	\t\t^’†‚©‚η“ρ‚Β‚Ιά‚κ‚Δ‚µ‚ά‚Α‚½“•B•—‰J‚ΙN‚³‚κ‚Ν‚±‚Ϊ‚κ‚ΰ“‚­‚ΰ‚Ν‚β‰Ώ’l‚Ν”χo‚ΰ–³‚Ά‚ªA‚»‚κ‚Ε‚ΰq‹‚Ι—^‚¦‚ι‚Ζκ¶–½νm‚Μ^—–‚π‚·‚ι‚Μ‚Ύ‚©‚η–Κ”’‚ΆB\n#`q‹‚πιx‚·‚P‚O‚O‚ΜƒeƒNƒjƒbƒNE‚¨“yY•Ò`\n
+item_desc2JP.	
+item_desc3JP.	
+item_desc4JP.	\t\tg‚Ά•¨‚Ι‚Θ‚η‚Θ‚Ά”j‘Ή‚µ‚½•‚ΎB\n#`Σ’θ•ρ‘Fƒ”p•i„ƒJƒeƒSƒ`\n
+item_desc1EN.	
+item_desc2EN.	
+item_desc3EN.	
+item_desc4EN.	The materials can probably be salvaged.

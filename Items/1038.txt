@@ -1,0 +1,11 @@
+item_id.	1038
+name_identJP.	《ヘルティアーレ》
+name_identEN.	<Heltiarre>
+item_desc1JP.	\t\tエウダーナの魔弓をベースに、イェルスの機械技術を組み込み強化した短弓。トリガーを引くとスタビライザーから電撃を放つ。また、弧の部分が二重構造になっている。外装には刀身と鍔を持ち接近戦も可能。リムは内側に独立しているので、外装が鍔迫り合いでたわんでも矢を放てる。\n#～イルヴァ幻想辞典～\n
+item_desc2JP.	
+item_desc3JP.	
+item_desc4JP.	\t\t電撃を放つ短弓だ。\n#～鑑定報告書：＜秘宝＞カテゴリ～\n
+item_desc1EN.	
+item_desc2EN.	
+item_desc3EN.	
+item_desc4EN.	

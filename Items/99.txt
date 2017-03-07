@@ -1,0 +1,11 @@
+item_id.	99
+name_identJP.	勉強机
+name_identEN.	academic table
+item_desc1JP.	\t\t勉学を励むに適した机。固い素材でできているが、よく見ると机の隅に小刀で削られたと思われる誰かのいたずら書きが彫られている。\n#～ノースティリス大家具事典～\n
+item_desc2JP.	
+item_desc3JP.	
+item_desc4JP.	\t\t勉強をする為に作られた机だ。\n#～鑑定報告書：＜家具＞カテゴリ～\n
+item_desc1EN.	
+item_desc2EN.	
+item_desc3EN.	
+item_desc4EN.	A desk used for students in Asseria schools.

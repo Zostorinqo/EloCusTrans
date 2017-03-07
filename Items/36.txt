@@ -1,0 +1,11 @@
+item_id.	36
+name_identJP.	魔力の結晶
+name_identEN.	mana crystal
+item_desc1JP.	\t\t魔力を封じ込めたとされる赤色の結晶。鉱物自体も純粋な魔力と同様に透き通っている。緊急時には魔道士がこれを砕いてその身に宿したいう話もあるそうだ。\n#～ヴェルニース鉱物図鑑～\n
+item_desc2JP.	
+item_desc3JP.	
+item_desc4JP.	\t\t赤色をした鉱石だ。\n#～鑑定報告書：＜鉱物＞カテゴリ～\n
+item_desc1EN.	
+item_desc2EN.	
+item_desc3EN.	
+item_desc4EN.	

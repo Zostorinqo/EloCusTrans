@@ -1,0 +1,11 @@
+item_id.	106
+name_identJP.	収納棚
+name_identEN.	closet
+item_desc1JP.	\t\t何でも収まるよう段と段とに余裕を持たせた棚。普通の棚と共に、広く愛用されている家具だ。\n#～ノースティリス大家具事典～\n
+item_desc2JP.	
+item_desc3JP.	
+item_desc4JP.	\t\t収納用の棚だ。\n#～鑑定報告書：＜家具＞カテゴリ～\n
+item_desc1EN.	
+item_desc2EN.	
+item_desc3EN.	
+item_desc4EN.	A closet for storing items.

@@ -1,0 +1,11 @@
+item_id.	933
+name_identJP.	麻薬煙管
+name_identEN.	kisel
+item_desc1JP.	\t\t効果未実装。\n#～移り変わりゆくティリスの食～\n
+item_desc2JP.	
+item_desc3JP.	
+item_desc4JP.	\t\t乾燥クラムベリーの煙を吸引するための器具。使用出来る。\n#～鑑定報告書：＜器具＞カテゴリ～\n
+item_desc1EN.	
+item_desc2EN.	
+item_desc3EN.	
+item_desc4EN.	

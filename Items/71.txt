@@ -1,0 +1,11 @@
+item_id.	71
+name_identJP.	体力回復のポーション
+name_identEN.	healing
+item_desc1JP.	\t\t分かりやすい名前をしたもっともらしい水薬。効果の程もそれなりで広がる傷を防ぐのには有効だが、継続的な創傷に対しては少々心もとないと言える。\n#～飲めるのみもの、飲めないのみもの～\n
+item_desc2JP.	
+item_desc3JP.	
+item_desc4JP.	\t\tHPと状態異常を回復するポーションだ。\n#～鑑定報告書：＜液体＞カテゴリ～\n
+item_desc1EN.	
+item_desc2EN.	
+item_desc3EN.	
+item_desc4EN.	A potion that cures some wounds.

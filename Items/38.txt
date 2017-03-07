@@ -1,0 +1,11 @@
+item_id.	38
+name_identJP.	金塊
+name_identEN.	gold bar
+item_desc1JP.	\t\t決して錆びることのない輝ける鉱物。非常に加工しやすく、また独特の明るい色は古来から富と力の象徴として権力者に好まれている。その神秘性からしばしば研究の対象となることもあるらしい。\n#～ヴェルニース鉱物図鑑～\n
+item_desc2JP.	
+item_desc3JP.	
+item_desc4JP.	\t\t黄金色の輝く鉱石だ。\n#～鑑定報告書：＜鉱物＞カテゴリ～\n
+item_desc1EN.	
+item_desc2EN.	
+item_desc3EN.	
+item_desc4EN.	

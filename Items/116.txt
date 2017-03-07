@@ -1,0 +1,11 @@
+item_id.	116
+name_identJP.	ショートテレポートの魔法書
+name_identEN.	minor teleportation
+item_desc1JP.	\t\t「ショートテレポート」という呪文について学ぶことが出来る魔法書。歩くのが面倒なあなたに。\n#～本の為の本・魔法書編～\n
+item_desc2JP.	
+item_desc3JP.	
+item_desc4JP.	\t\t近距離のテレポートを唱える為に必要な本。読むことが出来る。\n#～鑑定報告書：＜書物＞カテゴリ～\n
+item_desc1EN.	
+item_desc2EN.	
+item_desc3EN.	
+item_desc4EN.	The words in this tome do not seem to stay in one place.

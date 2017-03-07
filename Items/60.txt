@@ -1,0 +1,11 @@
+item_id.	60
+name_identJP.	拳銃
+name_identEN.	pistol
+item_desc1JP.	\t\t重量感ある小型の銃器。誰にでも扱えるよう設計されているが、銃身の短さ故に射程はそれほど長くないだろう。\n#～明日から使えるあなたの為の武具集～\n
+item_desc2JP.	
+item_desc3JP.	
+item_desc4JP.	\t\t弾と共に使用する射撃武器。距離によって威力が減衰する。\n#～鑑定報告書：＜武器＞カテゴリ～\n
+item_desc1EN.	
+item_desc2EN.	
+item_desc3EN.	
+item_desc4EN.	Made by Cyber Dome In

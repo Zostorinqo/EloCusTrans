@@ -1,0 +1,11 @@
+item_id.	29
+name_identJP.	麻痺のポーション
+name_identEN.	paralysis
+item_desc1JP.	\t\tパラライザーを煎じたものを水薬に混ぜたもの。飲むと肉体に障害をきたすほどの痺れを生じさせる。誤飲してしまっても一過性のものである為心配はないが、癖にならないようにと忠告しておこう。\n#～飲めるのみもの、飲めないのみもの～\n
+item_desc2JP.	
+item_desc3JP.	
+item_desc4JP.	\t\t麻痺状態を引き起こすポーションだ。\n#～鑑定報告書：＜液体＞カテゴリ～\n
+item_desc1EN.	
+item_desc2EN.	
+item_desc3EN.	
+item_desc4EN.	A label dictates ""For medical use only.""
