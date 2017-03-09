@@ -5,7 +5,7 @@ item_desc1JP.	\t\t–ü‚µè’B‚ªŒÃ—ˆ‚©‚çlX‚Æç‚Á‚Ä‚«‚½¶–ò‚ğ•²‚É‚µA…–ò‚É¬‚º‚½‚à
 item_desc2JP.	
 item_desc3JP.	
 item_desc4JP.	\t\tHP‚Æó‘ÔˆÙí‚ğ‰ñ•œ‚·‚éƒ|[ƒVƒ‡ƒ“‚¾B\n#`ŠÓ’è•ñ‘Fƒ‰t‘Ì„ƒJƒeƒSƒŠ`\n
-item_desc1EN.	
+item_desc1EN.	\t\tA potion containing a powdered natural remedy that healers have protected in secrecy since ancient times. Although it seems very dubious, its effect is quite strong, and is something you'd want to carry for emergencies.\n#`Drinkable Drinks and Deadly Draughts`\n
 item_desc2EN.	
 item_desc3EN.	
-item_desc4EN.	A potion that cures some wounds.
+item_desc4EN.	\t\tA potion that restores HP and cures abnormal status effects.

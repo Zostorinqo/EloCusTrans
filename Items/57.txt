@@ -1,11 +1,11 @@
 item_id.	57
 name_identJP.	sa“SŒ•t
-name_identEN.	<Zantetsu>
+name_identEN.	<Zantetsuken>
 item_desc1JP.	\t\t‚±‚Ì¢‚ÉØ‚ê‚ÊÒ‚È‚Ç–³‚¢‚Ææ‚í‚ê‚éˆêU‚è‚ÌŠïÕB‰\’Ê‚è‚Ç‚ñ‚È•¨‚Å‚àØ‚èŠÑ‚­‚ªA˜b‚É‚æ‚é‚Æ’e—Í«‚É•x‚ŞŠDF‚ÌH•¨‚¾‚¯‚ÍAØ‚é‚±‚Æ‚ªo—ˆ‚È‚¢‚ç‚µ‚¢B\n#`ƒCƒ‹ƒ”ƒ@Œ¶‘z«“T`\n
 item_desc2JP.	
 item_desc3JP.	
 item_desc4JP.	\t\t‰½‚Å‚àŠÑ‚­‚Æ‚¢‚í‚ê‚é’·Œ•‚¾B\n#`ŠÓ’è•ñ‘Fƒ”é•ó„ƒJƒeƒSƒŠ`\n
-item_desc1EN.	
+item_desc1EN.	\t\tA miracle praised to be capable of cutting anything in this world in one swing. As rumoured, it cuts through anything, though as the story goes, very elastic gray foods are an exception.\n#`Irva Fantasy Encyclopedia`\n
 item_desc2EN.	
 item_desc3EN.	
-item_desc4EN.	Sword rumored to cut through anything.
+item_desc4EN.	\t\tSword rumored to cut through anything.

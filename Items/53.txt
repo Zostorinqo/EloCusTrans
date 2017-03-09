@@ -8,4 +8,4 @@ item_desc4JP.	\t\t•¶š‚Ì‘‚©‚ê‚½Î‚Ì”Â‚¾B\n#`ŠÓ’è•ñ‘Fƒˆâ•¨„ƒJƒeƒSƒŠ`\n
 item_desc1EN.	\t\tA hard slab engraved with ancient language. It can't be read, but citizens who want to experience history will sometimes purchase it.\n#`Your Unfamiliar World`\n
 item_desc2EN.	
 item_desc3EN.	\t\t'I wonder how it feels to know that your words will become an eternal existence?'\n#`Words of the Historian Elistea`\n
-item_desc4EN.	\t\tA stone slab with letters written on it. Please do not kick the tombstones.
+item_desc4EN.	\t\tA stone slab with letters written on it.

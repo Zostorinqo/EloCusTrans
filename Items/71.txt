@@ -5,7 +5,7 @@ item_desc1JP.	\t\t分かりやすい名前をしたもっともらしい水薬。効果の程もそれなりで
 item_desc2JP.	
 item_desc3JP.	
 item_desc4JP.	\t\tHPと状態異常を回復するポーションだ。\n#～鑑定報告書：＜液体＞カテゴリ～\n
-item_desc1EN.	
+item_desc1EN.	\t\tA believable potion with an easy to understand name. It is effective at closing up wounds, but can be said to be a bit inconvenient when it comes to continuous damage.\n#～Drinkable Drinks and Deadly Draughts～\n
 item_desc2EN.	
 item_desc3EN.	
-item_desc4EN.	A potion that cures some wounds.
+item_desc4EN.	\t\tA potion that restores HP and cures abnormal status effects.

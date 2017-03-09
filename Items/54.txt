@@ -5,7 +5,7 @@ item_desc1JP.	\t\t¢ŠE‚ÅL‚­—¬’Ê‚µ‚Ä‚¢‚é’Ê‰İBğ¡‚É‚¨‚¢‚Ä•¨XŒğŠ·‚É‘ã‚í‚é•û–@‚Æ
 item_desc2JP.	
 item_desc3JP.	
 item_desc4JP.	\t\t¢ŠE‹¤’Ê‚Ì’Ê‰İ‚¾B\n#`ŠÓ’è•ñ‘Fƒ‰İ•¼„ƒJƒeƒSƒŠ`\n
-item_desc1EN.	
+item_desc1EN.	\t\tCurrency widely circulated around the world. It was recently established as a method to replace bartering, although not without introducing some adverse effects. Unfortunately, because wealth tends to accumulate in one spot, popular tourist destinations become easy targets for thieves, and the rich continue to demand more and more currency from the country.\n#`World of Coin E Tyris Edition`\n
 item_desc2EN.	
 item_desc3EN.	
-item_desc4EN.	Standard currency of North Tyris.
+item_desc4EN.	\t\tStandard currency of the world.
