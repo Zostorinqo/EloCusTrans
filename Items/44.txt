@@ -5,7 +5,7 @@ item_desc1JP.	\t\tŠó­‰¿’l‚ª‚Ü‚é‚Å‚È‚¢Î‚­‚êB‚»‚±‚ç‚Ö‚ñ‚É‚¢‚­‚ç‚Å‚à“]‚ª‚Á‚Ä‚¢‚é
 item_desc2JP.	
 item_desc3JP.	
 item_desc4JP.	\t\t‚Æ‚é‚É‘«‚ç‚È‚¢¬Î‚¾B\n#`ŠÓ’è•ñ‘Fƒ”p•i„ƒJƒeƒSƒŠ`\n
-item_desc1EN.	
+item_desc1EN.	\t\tA completely worthless stone. Although they can be found everywhere, there are many children who collect such things.\n#`100 Ways to Deceive Kids E Presents`\n
 item_desc2EN.	
 item_desc3EN.	
 item_desc4EN.	A useless stone that seems to break apart into sand when touched.

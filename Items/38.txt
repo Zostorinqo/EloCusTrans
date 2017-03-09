@@ -5,7 +5,7 @@ item_desc1JP.	\t\tŒˆ‚µ‚ÄK‚Ñ‚é‚±‚Æ‚Ì‚È‚¢‹P‚¯‚éz•¨B”ñí‚É‰ÁH‚µ‚â‚·‚­A‚Ü‚½“Æ“Á
 item_desc2JP.	
 item_desc3JP.	
 item_desc4JP.	\t\t‰©‹àF‚Ì‹P‚­zÎ‚¾B\n#`ŠÓ’è•ñ‘Fƒz•¨„ƒJƒeƒSƒŠ`\n
-item_desc1EN.	
+item_desc1EN.	\t\tA sparkling mineral that can never rust. Very easy to process, its unique bright coloration is loved by influential people as a symbol of wealth and power since time immemorial.\n#`Vernis Mineralogical Field Guide`\n
 item_desc2EN.	
 item_desc3EN.	
-item_desc4EN.	
+item_desc4EN.	\t\tA gold shining mineral.
