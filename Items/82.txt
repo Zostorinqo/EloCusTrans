@@ -5,7 +5,7 @@ item_desc1JP.	\t\t主に子供が遊ぶ為に用いる遊具。時代がすすむにつれ、より複雑に、
 item_desc2JP.	
 item_desc3JP.	
 item_desc4JP.	\t\t子供用の遊具だ。\n#～鑑定報告書：＜用具＞カテゴリ～\n
-item_desc1EN.	
+item_desc1EN.	\t\tAn item meant for children to play with. As technology progresses, so too does the complexity and cost of toys, leading to many headaches that plague adults today.\n#～Law of Games ・ All-Ages Version～\n
 item_desc2EN.	
 item_desc3EN.	
-item_desc4EN.	A child's toy.
+item_desc4EN.	\t\tA child's toy.

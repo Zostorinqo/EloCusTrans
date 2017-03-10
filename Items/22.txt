@@ -8,4 +8,4 @@ item_desc4JP.	\t\tアイテムの呪いを解く呪文を唱える為に必要な本。読むことが出来る
 item_desc1EN.	\n\nA magical book from which you can learn about the Uncurse spell. For those who believe in souls.\nThe Book of Books - Magical Tomes Edition
 item_desc2EN.	
 item_desc3EN.	
-item_desc4EN.	Readable book. Contains knowledge about the spell uncurse.
+item_desc4EN.	\t\tReadable book. Contains knowledge about the spell uncurse.

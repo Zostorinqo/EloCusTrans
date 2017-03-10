@@ -8,4 +8,4 @@ item_desc4JP.	\t\t–Ó–Úó‘Ô‚ğˆø‚«‹N‚±‚·ƒ|[ƒVƒ‡ƒ“‚¾B\n#`ŠÓ’è•ñ‘Fƒ‰t‘Ì„ƒJƒ
 item_desc1EN.	\t\tExtracted from the essence of Pumpkins, this clear medicine was born from a failed research experiment. Although it was meant to turn someone invisible upon consumption, the monster extract reacted to the eyes first, making it impossible to sense anything but yourself.\n#`Drinkable Drinks and Deadly Draughts`\n
 item_desc2EN.	
 item_desc3EN.	
-item_desc4EN.	\t\tA potion that causes blindness. Sometimes carried by prostitutes.
+item_desc4EN.	\t\tA potion that causes blindness.

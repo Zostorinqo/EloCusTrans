@@ -8,4 +8,4 @@ item_desc4JP.	\t\t‘m—µ—p‚Ì•‚¾B\n#`ŠÓ’è•ñ‘Fƒ–h‹ï„ƒJƒeƒSƒŠ`\n
 item_desc1EN.	\t\tA piece of protective gear woven as a single piece, typically worn by priests. It's not very useful against heavy attacks, but it doesn't hinder the wearer's casting or movement.\nEquipment You Could Use Tomorrow\n
 item_desc2EN.	
 item_desc3EN.	
-item_desc4EN.	Armor. Clothes made for priests.
+item_desc4EN.	\t\tArmor. Clothes made for priests.

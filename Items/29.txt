@@ -8,4 +8,4 @@ item_desc4JP.	\t\t–ƒáƒó‘Ô‚ğˆø‚«‹N‚±‚·ƒ|[ƒVƒ‡ƒ“‚¾B\n#`ŠÓ’è•ñ‘Fƒ‰t‘Ì„ƒJƒ
 item_desc1EN.	\t\tA potion mixed with a paralyzing agent. Drinking it causes a high level of numbness that impedes movement of the body. Accidental ingestion isn't a concern, as the effects will wear off after some time, but habitual use is not recommended.\n#`Drinkable Drinks and Deadly Draughts`\n
 item_desc2EN.	
 item_desc3EN.	
-item_desc4EN.	\t\tA potion that causes paralysis. A label dictates ""For medical use only.""
+item_desc4EN.	\t\tA potion that causes paralysis.

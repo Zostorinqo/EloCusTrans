@@ -8,4 +8,4 @@ item_desc4JP.	\t\tŠô‚Â‚©‚Ì‘•ü‚ª‚³‚ê‚½w—Ö‚¾B\n#`ŠÓ’è•ñ‘Fƒ–h‹ï„ƒJƒeƒSƒŠ
 item_desc1EN.	\t\tA ring engraved with beautiful decorations. It used to be a contest between craftsman to see just how much detail could fit on tiny rings like this.\nEquipment You Could Use Tomorrow\n
 item_desc2EN.	
 item_desc3EN.	
-item_desc4EN.	Armor. A decorated ring.
+item_desc4EN.	\t\tArmor. A decorated ring.

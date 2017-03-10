@@ -8,4 +8,4 @@ item_desc4JP.	\t\t•ªŒú‚¢˜Uè‚¾B\n#`ŠÓ’è•ñ‘Fƒ–h‹ï„ƒJƒeƒSƒŠ`\n
 item_desc1EN.	\t\tProtective gear intended to guard you from the wrist down. It makes precise movement of the fingers difficult, but that's probably better than losing a hand.\nEquipment You Could Use Tomorrow\n
 item_desc2EN.	
 item_desc3EN.	
-item_desc4EN.	Armor. Thick gauntlets.
+item_desc4EN.	\t\tArmor. Thick gauntlets.

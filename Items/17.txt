@@ -8,4 +8,4 @@ item_desc4JP.	\t\tƒ‚ƒ“ƒXƒ^[ˆÈŠO‚Ì“G‘Îó‹µ‚ğƒŠƒZƒbƒg‚·‚éŠª•¨‚¾B\n#`ŠÓ’è•ñ‘
 item_desc1EN.	\t\tA scroll that allows you to instantly pretend to be another person. Really makes you feel like an amazing thief when used.\nCodex of Magical Items
 item_desc2EN.	
 item_desc3EN.	
-item_desc4EN.	Readable scroll. Resets enemies' hostility.
+item_desc4EN.	\t\tReadable scroll. Resets enemies' hostility.

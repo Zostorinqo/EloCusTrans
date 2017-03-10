@@ -8,4 +8,4 @@ item_desc4JP.	\t\t‡–°ó‘Ô‚ğˆø‚«‹N‚±‚·ƒ|[ƒVƒ‡ƒ“‚¾B\n#`ŠÓ’è•ñ‘Fƒ‰t‘Ì„ƒJƒ
 item_desc1EN.	\t\tA potion with a sweet fragrance. Said to make any wild beast docile with but a sprinkle. Takes out your insomnia in one punch.\n#`Drinkable Drinks and Deadly Draughts`\n
 item_desc2EN.	
 item_desc3EN.	
-item_desc4EN.	\t\tA potion that puts you to sleep. A label says ""Do not inhale.""
+item_desc4EN.	\t\tA potion that puts you to sleep.

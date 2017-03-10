@@ -8,4 +8,4 @@ item_desc4JP.	\t\tU‚é‚±‚Æ‚ÅŠƒAƒCƒeƒ€‚ÌŠÓ’è‚ğs‚¤–‚–@‚Ìñ‚¾B\n#`ŠÓ’è•ñ‘
 item_desc1EN.	\t\tA rod containing a magic spell. A gem that allows true sight is attached to the end.\nCodex of Magical Items
 item_desc2EN.	
 item_desc3EN.	
-item_desc4EN.	Magical rod. Identifies items when used.
+item_desc4EN.	\t\tMagical rod. Identifies items when used.

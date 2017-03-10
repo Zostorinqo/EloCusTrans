@@ -5,7 +5,7 @@ item_desc1JP.	\t\t¹‚È‚é–ü‚µè‚Ì–¼‚ğ‚Â‹°‚ê‘½‚«…–òB‚à‚Í‚â‰½‚ª’²‡‚³‚ê‚Ä‚¢‚é‚©
 item_desc2JP.	
 item_desc3JP.	
 item_desc4JP.	\t\tHP‚Æó‘ÔˆÙí‚ğ‰ñ•œ‚·‚éƒ|[ƒVƒ‡ƒ“‚¾B\n#`ŠÓ’è•ñ‘Fƒ‰t‘Ì„ƒJƒeƒSƒŠ`\n
-item_desc1EN.	
+item_desc1EN.	\t\tA potion, possessing the name of a sacred healer, that fills you with unease. It's unknown exactly what is mixed into this medicine at this point, yet it shines with a brilliant iridescent coloration and will whisk injuries away as if they were nothing but a peaceful dream.\n#`Drinkable Drinks and Deadly Draughts`\n
 item_desc2EN.	
 item_desc3EN.	
-item_desc4EN.	A potion whose formula was created by Jure herself.
+item_desc4EN.	\t\tA potion that restores HP and cures abnormal status effects.

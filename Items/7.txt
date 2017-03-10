@@ -8,4 +8,4 @@ item_desc4JP.	\t\tg‚ğç‚éˆ×‚Éì‚ç‚ê‚½í“¬—p‚Ì–h‹ï‚¾B\n#`ŠÓ’è•ñ‘Fƒ–h‹ï„ƒ
 item_desc1EN.	\t\tProtective gear that has developed to counter the evolution of weapons. It's heavy, but it's good at its job of preventing fatal wounds.\nEquipment You Could Use Tomorrow\n
 item_desc2EN.	
 item_desc3EN.	
-item_desc4EN.	Armor. A piece of gear made to protect the body.
+item_desc4EN.	\t\tArmor. A piece of gear made to protect the body.

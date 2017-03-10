@@ -8,4 +8,4 @@ item_desc4JP.	\t\tG‘½‚Èî•ñ‚ª‘‚©‚ê‚½–{B“Á‚É—˜—p‚Å‚«‚é‚à‚Ì‚Í‚È‚¢B\n#`ŠÓ’è•ñ
 item_desc1EN.	\t\tA type of medium that's widely circulated throughout North Tyris. Some of them even have important things written in them, but most are pretty useless.\nThe Book of Books
 item_desc2EN.	
 item_desc3EN.	
-item_desc4EN.	Readable book. No particular use.
+item_desc4EN.	\t\tReadable book. No particular use.

@@ -8,4 +8,4 @@ item_desc4JP.	\t\tƒ‰ƒ“ƒ_ƒ€‚ÈˆÊ’u‚ÖƒeƒŒƒ|[ƒg‚ğs‚¤Šª•¨‚¾B\n#`ŠÓ’è•ñ‘Fƒ†•
 item_desc1EN.	\t\tA scroll that makes it possible to instantly teleport by creating a dimensional distortion. It's convenient, but since you can't control where you go, it's not reliable in emergencies.\nCodex of Magical Items
 item_desc2EN.	
 item_desc3EN.	
-item_desc4EN.	Readable scroll. Teleports the reader to a random location.
+item_desc4EN.	\t\tReadable scroll. Teleports the reader to a random location.
