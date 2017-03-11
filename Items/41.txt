@@ -5,7 +5,7 @@ item_desc1JP.	\t\tƒGƒƒ‰ƒ‹ƒh‚Ì—v‘f‚ª‘½‚­ŠÜ‚Ü‚ê‚½’¿‚µ‚¢z•¨B‰ÁH‚Ì‰ß’ö‚ğŒo‚ÄA‚»
 item_desc2JP.	
 item_desc3JP.	
 item_desc4JP.	\t\tƒGƒƒ‰ƒ‹ƒh‚Ì—v‘f‚ªŠÜ‚Ü‚ê‚ézÎ‚¾B\n#`ŠÓ’è•ñ‘Fƒz•¨„ƒJƒeƒSƒŠ`\n
-item_desc1EN.	\t\tAn unusual mineral comprised of many elements of emerald. Due to the extremely small amount of ore post-processing, a mineral of even this size is said not to be worth much.\n#`Vernis Mineralogical Field Guide`\n
+item_desc1EN.	\t\tAn unusual mineral comprised of many elements of emerald. Due to the extremely small amount of ore post-processing, a mineral of even this size is said not to be worth much.\n#~Vernis Mineralogical Field Guide~\n
 item_desc2EN.	
 item_desc3EN.	
 item_desc4EN.	\t\tOre containing elements of emerald.

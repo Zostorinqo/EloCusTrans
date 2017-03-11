@@ -5,7 +5,7 @@ item_desc1JP.	\t\tパラライザーを煎じたものを水薬に混ぜたもの。飲むと肉体に障害を
 item_desc2JP.	
 item_desc3JP.	
 item_desc4JP.	\t\t麻痺状態を引き起こすポーションだ。\n#～鑑定報告書：＜液体＞カテゴリ～\n
-item_desc1EN.	\t\tA potion mixed with a paralyzing agent. Drinking it causes a high level of numbness that impedes movement of the body. Accidental ingestion isn't a concern, as the effects will wear off after some time, but habitual use is not recommended.\n#～Drinkable Drinks and Deadly Draughts～\n
+item_desc1EN.	\t\tA potion mixed with a paralyzing agent. Drinking it causes a high level of numbness that impedes movement of the body. Accidental ingestion isn't a concern, as the effects will wear off after some time, but habitual use is not recommended.\n#~Drinkable Drinks and Deadly Draughts~\n
 item_desc2EN.	
 item_desc3EN.	
 item_desc4EN.	\t\tA potion that causes paralysis.

@@ -5,7 +5,7 @@ item_desc1JP.	\t\t•Ğè‚Åˆµ‚¦‚é‚æ‚¤Œy‚­ì‚ç‚ê‚Ä‚¢‚é•€B•Ší‚Æ‚¢‚¤‚æ‚èd‚ğŠ„‚é“™“ú
 item_desc2JP.	
 item_desc3JP.	
 item_desc4JP.	\t\t¬Œ^‚Ì•€‚¾B\n#`ŠÓ’è•ñ‘Fƒ•Ší„ƒJƒeƒSƒŠ`\n
-item_desc1EN.	\t\tAn axe designed to be wielded with one hand. More commonly used for mundane tasks like chopping wood than as a weapon. Its lightness even makes it suitable for use as a club.\nEquipment You Could Use Tomorrow
+item_desc1EN.	\t\tAn axe designed to be wielded with one hand. More commonly used for mundane tasks like chopping wood than as a weapon. Its lightness even makes it suitable for use as a club.\n~Equipment You Could Use Tomorrow~
 item_desc2EN.	
 item_desc3EN.	
 item_desc4EN.	\t\tWeapon. A small axe.

@@ -5,7 +5,7 @@ item_desc1JP.	\t\t沢山の素材片を張り付けた靴。当然通常より重くなっているが、その
 item_desc2JP.	
 item_desc3JP.	
 item_desc4JP.	\t\t重い靴だ。\n#～鑑定報告書：＜防具＞カテゴリ～\n
-item_desc1EN.	Shoes with fragments of various materials attached to them. This of course makes them heavier than normal, but increases its protection too.\nEquipment You Could Use Tomorrow\n
+item_desc1EN.	Shoes with fragments of various materials attached to them. This of course makes them heavier than normal, but increases its protection too.\n~Equipment You Could Use Tomorrow~\n
 item_desc2EN.	
 item_desc3EN.	
 item_desc4EN.	\t\tArmor. Heavy boots.

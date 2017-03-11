@@ -5,7 +5,7 @@ item_desc1JP.	\t\t’Œ‚Ìæ‚É‰Š‚ğ“ü‚ê‚Ä‚¨‚­“S‚Ì‚©‚²‚ğæ‚è•t‚¯‚½ŠÈ‘f‚ÈÆ–¾B‚»‚Ì•œ
 item_desc2JP.	
 item_desc3JP.	
 item_desc4JP.	\t\tŠÈ‘f‚ÈÆ–¾Ší‹ïBí‚ÉüˆÍ‚ğ–¾‚é‚­Æ‚ç‚·B\n#`ŠÓ’è•ñ‘Fƒ—p‹ï„ƒJƒeƒSƒŠ`\n
-item_desc1EN.	\t\tAn iron basket holding a flame, at the end of a post, for simple illumination. Its rustic design gives off a somewhat wild impression. Many shops and restaurants have installed these for that effect in recent years.\n#`Today You're an Adventurer E Travel Manual`\n
+item_desc1EN.	\t\tAn iron basket holding a flame, at the end of a post, for simple illumination. Its rustic design gives off a somewhat wild impression. Many shops and restaurants have installed these for that effect in recent years.\n#~Today You're an Adventurer - Travel Manual~\n
 item_desc2EN.	
 item_desc3EN.	
-item_desc4EN.	\t\tSimple lighting. Keeps the surroundings illuminated. You smell something strange burning.
+item_desc4EN.	\t\tSimple lighting. Keeps the surroundings illuminated.

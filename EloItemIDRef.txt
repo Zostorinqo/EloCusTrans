@@ -1,0 +1,90 @@
+Elona+ v1.65 Item ID Reference List
+--
+[ID-#]	[JP-Name]			[EN-Name]				[Note]
+0		黄金				gold bar				does not exist in game/debug item
+1		長剣				long sword
+2		短剣				dagger
+3		手斧				hand axe
+4		棍棒				club
+5		魔法帽				magic hat
+6		フェアリーハット			fairy hat
+7		鎧					breastplate
+8		法衣				robe
+9		細工篭手				decorated gloves
+10		厚篭手				thick gauntlets
+11		重靴				heavy boots
+12		合成靴				composite boots
+13		装飾の指輪			decorative ring
+14		鑑定の巻物			identify				scroll
+15		神託の巻物			oracle					scroll
+16		テレポートの巻物		teleportation			scroll
+17		インコグニートの巻物		incognito				scroll
+18		鑑定の杖				identify				rod
+19		テレポートの杖			teleportation			rod
+20		テレポートの魔法書		teleportation			book
+21		鑑定の魔法書			identify				book
+22		解呪の魔法書			uncurse					book
+23		本					book
+24		本					book					duplicate entry?
+25		バグの本				bugged book				error item (item generation failsafe)
+26		汚水				dirty water
+27		盲目のポーション		blindness				potion
+28		混乱のポーション		confusion				potion
+29		麻痺のポーション		paralysis				potion
+30		睡眠薬				sleeping drug			potion
+31		クリムエール			crim ale
+32		アイスボルトの魔法書		ice bolt				book
+33		ファイアボルトの魔法書 	fire bolt				book
+34		ライトニングボルトの魔法書 lightning bolt			book
+35		大地の結晶			earth crystal
+36		魔力の結晶			mana crystal
+37		太陽の結晶			sun crystal
+38		金塊				gold bar
+39		ルビナスの原石			rubynus					ore
+40		ミカ					mica					ore
+41		エメラルドの原石		emerald					ore
+42		ダイヤモンドの原石		diamond					ore
+43		木片				wood chips
+44		クズ石				junk stone
+45		クズ					garbage
+46		割れたつぼ			broken vase
+47		洗物				washings
+48		かがり台				brazier stand
+49		旗					flag
+50		折れた刃				broken sword
+51		骨					bone fragment
+52		骸					skeleton
+53		石碑				tombstone
+54		金貨				gold piece
+55		プラチナ硬貨			platinum coin
+56		《ディアボロス》			<Diablos>
+57		《斬鉄剣》				<Zantetsuken>
+58		長弓				long bow
+59		騎士盾				knight shield
+60		拳銃				pistol
+61		矢束				arrow
+62		弾丸				bullet
+63		《虚無の大鎌》			<Scythe of the Void>
+64		《モーンブレイド》		<Mournblade>
+65		軽外套				light cloak
+66		腰当				girdle
+67		装飾首輪				decorative amulet
+68		軽傷治癒のポーション	cure minor wound		potion
+69		重傷治癒のポーション	cure major wound		potion
+70		致命傷治癒のポーション	cure critical wound		potion
+71		体力回復のポーション	healing					potion
+72		癒し手のポーション		healer					potion
+73		《ラグナロク》			<Ragnarok>
+74		癒し手オディナのポーション healer <Odina>			potion
+75		白き癒し手エリスのポーション healer <Eris>			potion
+76		聖なる癒し手ジュアのポーション healer <Jure>		potion
+77		丸椅子				round chair
+78		普通の本棚			bookshelf
+79		高級箪笥				luxury drawer
+80		安物ベッド			cheap bed
+81		ぬいぐるみ				plush doll
+82		玩具				toy
+83		モダンテーブル			modern table
+84		ダイニングテーブル		dining table
+85		様々な鎧				armor
+86		たくさんの雑貨			goods

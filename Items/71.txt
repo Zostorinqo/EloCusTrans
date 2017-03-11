@@ -5,7 +5,7 @@ item_desc1JP.	\t\t•ª‚©‚è‚â‚·‚¢–¼‘O‚ğ‚µ‚½‚à‚Á‚Æ‚à‚ç‚µ‚¢…–òBŒø‰Ê‚Ì’ö‚à‚»‚ê‚È‚è‚Å
 item_desc2JP.	
 item_desc3JP.	
 item_desc4JP.	\t\tHP‚Æó‘ÔˆÙí‚ğ‰ñ•œ‚·‚éƒ|[ƒVƒ‡ƒ“‚¾B\n#`ŠÓ’è•ñ‘Fƒ‰t‘Ì„ƒJƒeƒSƒŠ`\n
-item_desc1EN.	\t\tA believable potion with an easy to understand name. It is effective at closing up wounds, but can be said to be a bit inconvenient when it comes to continuous damage.\n#`Drinkable Drinks and Deadly Draughts`\n
+item_desc1EN.	\t\tA believable potion with an easy to understand name. It is effective at closing up wounds, but can be said to be a bit inconvenient when it comes to continuous damage.\n#~Drinkable Drinks and Deadly Draughts~\n
 item_desc2EN.	
 item_desc3EN.	
 item_desc4EN.	\t\tA potion that restores HP and cures abnormal status effects.

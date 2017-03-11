@@ -5,7 +5,7 @@ item_desc1JP.	\t\tŒÃ‘ã‚Ì‘°‚ª”­’[‚ÌA•Ğè‚Å‚àŠÈ’P‚Éˆµ‚¦‚é‚æ‚¤’Z‚­Œy‚¢¬Œ•B‚»‚Ì
 item_desc2JP.	
 item_desc3JP.	
 item_desc4JP.	\t\t¬Œ^‚ÌŒ•‚¾B\n#`ŠÓ’è•ñ‘Fƒ•Ší„ƒJƒeƒSƒŠ`\n
-item_desc1EN.	\t\tA short-bladed weapon that's been used for millenia. Though simple, its design makes it excellent for one-handed use, and remains largely unchanged even to this day.\nEquipment You Could Use Tomorrow
+item_desc1EN.	\t\tA short-bladed weapon that's been used for millenia. Though simple, its design makes it excellent for one-handed use, and remains largely unchanged even to this day.\n~Equipment You Could Use Tomorrow~
 item_desc2EN.	
 item_desc3EN.	
 item_desc4EN.	\t\tWeapon. A short-bladed weapon.

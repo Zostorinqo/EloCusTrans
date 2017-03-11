@@ -5,7 +5,7 @@ item_desc1JP.	\t\t–œ•a‚ÉŒø‚­‚ÆŒÄ‚Î‚ê‚é‚ ‚è‚Æ‚ ‚ç‚ä‚é–ò‘‚ğˆê‚©Š‚É‚Ü‚Æ‚ßA‚»‚ê‚ğ
 item_desc2JP.	
 item_desc3JP.	
 item_desc4JP.	\t\tHP‚Æó‘ÔˆÙí‚ğ‰ñ•œ‚·‚éƒ|[ƒVƒ‡ƒ“‚¾B\n#`ŠÓ’è•ñ‘Fƒ‰t‘Ì„ƒJƒeƒSƒŠ`\n
-item_desc1EN.	\t\tThis potion is the result of forcibly condensing every medicinal plant known to cure any disease and then boosting its effects. The taste is intense and bitter, and while it feels like it has a strong effect, it really isn't much.\n#`Drinkable Drinks and Deadly Draughts`\n
+item_desc1EN.	\t\tThis potion is the result of forcibly condensing every medicinal plant known to cure any disease and then boosting its effects. The taste is intense and bitter, and while it feels like it has a strong effect, it really isn't much.\n#~Drinkable Drinks and Deadly Draughts~\n
 item_desc2EN.	
 item_desc3EN.	
 item_desc4EN.	\t\tA potion that restores HP and cures abnormal status effects.

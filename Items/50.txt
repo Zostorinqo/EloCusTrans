@@ -5,7 +5,7 @@ item_desc1JP.	\t\t^’†‚©‚ç“ñ‚Â‚ÉÜ‚ê‚Ä‚µ‚Ü‚Á‚½“Œ•B•—‰J‚ÉN‚³‚ê‚Í‚±‚Ú‚ê‚à“‚­‚à
 item_desc2JP.	
 item_desc3JP.	
 item_desc4JP.	\t\tg‚¢•¨‚É‚È‚ç‚È‚¢”j‘¹‚µ‚½Œ•‚¾B\n#`ŠÓ’è•ñ‘Fƒ”p•i„ƒJƒeƒSƒŠ`\n
-item_desc1EN.	\t\tA sword that was snapped in half. A combination of nicks, scratches, and exposure has made it almost entirely worthless, yet in the hands of a child pretending to be a warrior with all their might, it offers hours of fun.\n#`100 Ways to Deceive Kids E Presents`\n
+item_desc1EN.	\t\tA sword that was snapped in half. A combination of nicks, scratches, and exposure has made it almost entirely worthless, yet in the hands of a child pretending to be a warrior with all their might, it offers hours of fun.\n#~100 Ways to Deceive Kids - Presents~\n
 item_desc2EN.	
 item_desc3EN.	
 item_desc4EN.	\t\tA damaged sword that is unusable. The materials can probably be salvaged.

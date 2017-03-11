@@ -5,7 +5,7 @@ item_desc1JP.	\t\t伝説の品の存在を知ることが出来るとされる巻物。誰が持っているか
 item_desc2JP.	
 item_desc3JP.	
 item_desc4JP.	\t\t今までに現れた★のつくアイテムの現在地を知ることが出来る巻物だ。\n#～鑑定報告書：＜紙片＞カテゴリ～\n
-item_desc1EN.	\t\tA scroll that makes it possible to learn the location of legendary artifacts. If it won't tell you where to find it, then maybe God isn't too happy with you.\nCodex of Magical Items
+item_desc1EN.	\t\tA scroll that makes it possible to learn the location of legendary artifacts. If it won't tell you where to find it, then maybe God isn't too happy with you.\n~Codex of Magical Items~
 item_desc2EN.	
 item_desc3EN.	
 item_desc4EN.	\t\tReadable scroll. Reveals the locations of artifacts.

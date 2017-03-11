@@ -5,7 +5,7 @@ item_desc1JP.	\t\t‰Æ‹ï‰®‚Å‚æ‚­”„‚ç‚ê‚Ä‚¢‚é‘•¨‚ğû‚ß‚éˆ×‚Ì’IB“Á‚É–Ú—§‚Á‚½ˆ«‚¢“_
 item_desc2JP.	
 item_desc3JP.	
 item_desc4JP.	\t\t‹É•’Ê‚Ì–{‚ğû‚ß‚éˆ×‚Ì’I‚¾B–{—Ş‚ğ100í—Ş‚Ü‚Å“ü‚ê‚é‚±‚Æ‚ª‚Å‚«‚éB\n#`ŠÓ’è•ñ‘Fƒ‰Æ‹ï„ƒJƒeƒSƒŠ`\n
-item_desc1EN.	\t\tShelves for holding books, often sold in furniture stores. Nothing particularily good or bad stands out about it, and its craftmanship is acceptable.\n#`North Tyris Great Furniture Encyclopedia`\n
+item_desc1EN.	\t\tShelves for holding books, often sold in furniture stores. Nothing particularily good or bad stands out about it, and its craftmanship is acceptable.\n#~North Tyris Great Furniture Encyclopedia~\n
 item_desc2EN.	
 item_desc3EN.	
 item_desc4EN.	\t\tA shelf for holding ordinary books. Can hold 100 different kinds.

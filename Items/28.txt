@@ -5,7 +5,7 @@ item_desc1JP.	\t\tˆù‚Ş‚Æ“ª‚ÉŒƒ’É‚ğˆø‚«‹N‚±‚·…–òB“ª’É‚Íˆê‰ß«‚Ì‚à‚Ì‚¾‚ªA•½tŠ´
 item_desc2JP.	\t\t\n\n
 item_desc3JP.	
 item_desc4JP.	\t\t¬—ó‘Ô‚ğˆø‚«‹N‚±‚·ƒ|[ƒVƒ‡ƒ“‚¾B\n#`ŠÓ’è•ñ‘Fƒ‰t‘Ì„ƒJƒeƒSƒŠ`\n
-item_desc1EN.	\t\tA potion that gives you a headache when drunk. The headache, while temporary, induces loss of balance and reading comprehension, as well as remarkably bad conversational ability. Also, because the symptoms resemble inebriation, you may be mistaken for a drunkard, so caution should be taken when handling this.\n#`Drinkable Drinks and Deadly Draughts`\n
+item_desc1EN.	\t\tA potion that gives you a headache when drunk. The headache, while temporary, induces loss of balance and reading comprehension, as well as remarkably bad conversational ability. Also, because the symptoms resemble inebriation, you may be mistaken for a drunkard, so caution should be taken when handling this.\n#~Drinkable Drinks and Deadly Draughts~\n
 item_desc2EN.	
 item_desc3EN.	
 item_desc4EN.	\t\tA potion that causes confusion.

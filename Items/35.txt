@@ -5,7 +5,7 @@ item_desc1JP.	\t\t‘å’n‚Ì—Í‚ğ••‚¶‚ß‚½‚Æ‚³‚ê‚éòF‚ÌŒ‹»BŒõ‚É“§‚©‚·‚ÆA“à•”‚É‚½
 item_desc2JP.	
 item_desc3JP.	
 item_desc4JP.	\t\tòF‚ğ‚µ‚½zÎ‚¾B\n#`ŠÓ’è•ñ‘Fƒz•¨„ƒJƒeƒSƒŠ`\n
-item_desc1EN.	\t\tAn orange-colored crystal considered to hold the power of earth. When held up to the light, many tiny cracks on the interior become visible, making it very pretty.\n#`Vernis Mineralogical Field Guide`\n
+item_desc1EN.	\t\tAn orange-colored crystal considered to hold the power of earth. When held up to the light, many tiny cracks on the interior become visible, making it very pretty.\n#~Vernis Mineralogical Field Guide~\n
 item_desc2EN.	
 item_desc3EN.	
 item_desc4EN.	\t\tAn orange ore crystal.

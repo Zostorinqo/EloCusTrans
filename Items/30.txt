@@ -5,7 +5,7 @@ item_desc1JP.	\t\tŠÃ‚¢‚è‚Ì‚·‚é…–òBU‚è‚©‚¯‚ê‚Î‚Ç‚ñ‚È–Òb‚Å‚àš‚¿‘ål‚µ‚­‚È‚é
 item_desc2JP.	
 item_desc3JP.	
 item_desc4JP.	\t\t‡–°ó‘Ô‚ğˆø‚«‹N‚±‚·ƒ|[ƒVƒ‡ƒ“‚¾B\n#`ŠÓ’è•ñ‘Fƒ‰t‘Ì„ƒJƒeƒSƒŠ`\n
-item_desc1EN.	\t\tA potion with a sweet fragrance. Said to make any wild beast docile with but a sprinkle. Takes out your insomnia in one punch.\n#`Drinkable Drinks and Deadly Draughts`\n
+item_desc1EN.	\t\tA potion with a sweet fragrance. Said to make any wild beast docile with but a sprinkle. Takes out your insomnia in one punch.\n#~Drinkable Drinks and Deadly Draughts~\n
 item_desc2EN.	
 item_desc3EN.	
 item_desc4EN.	\t\tA potion that puts you to sleep.

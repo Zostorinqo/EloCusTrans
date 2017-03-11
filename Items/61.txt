@@ -5,7 +5,7 @@ item_desc1JP.	\t\t‹|‚É—p‚¢‚éˆ×‚Ì–î‚ğ‘©‚Ë‚½‚à‚ÌB‘©‚Ë‚Ä‚¢‚é‚Ì‚Å‘fŞ‚É‚æ‚Á‚Ä‚Í”ñí
 item_desc2JP.	
 item_desc3JP.	
 item_desc4JP.	\t\t‹|‚Æ‹¤‚Ég—p‚·‚é•Ší‚¾B\n#`ŠÓ’è•ñ‘Fƒ•Ší„ƒJƒeƒSƒŠ`\n
-item_desc1EN.	\t\tA bundle of arrows for use with a bow. Since it is bundled, it can be very heavy depending on material, thus caution is required when carrying it.\n#`Equipment You Could Use Tomorrow`\n
+item_desc1EN.	\t\tA bundle of arrows for use with a bow. Since it is bundled, it can be very heavy depending on material, thus caution is required when carrying it.\n#~Equipment You Could Use Tomorrow~\n
 item_desc2EN.	
 item_desc3EN.	
 item_desc4EN.	\t\tAmmunition for a bow. Hand forged arrows.

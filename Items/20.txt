@@ -5,7 +5,7 @@ item_desc1JP.	\t\t「テレポート」という呪文について学ぶことが出来る魔法書。今すぐ
 item_desc2JP.	
 item_desc3JP.	
 item_desc4JP.	\t\tテレポートを唱える為に必要な本。読むことが出来る。\n#～鑑定報告書：＜書物＞カテゴリ～\n
-item_desc1EN.	\t\tA magical book from which you can learn about the Teleport spell. For those who just can't wait to go on a trip.\nThe Book of Books - Magical Tomes Edition
+item_desc1EN.	\t\tA magical book from which you can learn about the Teleport spell. For those who just can't wait to go on a trip.\n~The Book of Books - Magical Tomes Edition~
 item_desc2EN.	
 item_desc3EN.	
 item_desc4EN.	\t\tReadable book. Contains knowledge about the spell Teleport.

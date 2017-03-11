@@ -5,7 +5,7 @@ item_desc1JP.	\t\tR‚Ù‚Ç‚Ì•i‚ª®‘R‚Æû”[‚³‚ê‚½’IB‘I‚Ñ‚â‚·‚¢‚æ‚¤“¯‚¶í—Ş‚É“Z‚ß‚ç
 item_desc2JP.	
 item_desc3JP.	
 item_desc4JP.	\t\tG‰İ‚ª’Â—ñ‚³‚ê‚½¬’I‚¾B\n#`ŠÓ’è•ñ‘Fƒ‰Æ‹ï„ƒJƒeƒSƒŠ`\n
-item_desc1EN.	\t\tHeaps of items neatly organized on shelves. It's sorted by type for easy selection.\n#`North Tyris Great Furniture Encyclopedia`\n
+item_desc1EN.	\t\tHeaps of items neatly organized on shelves. It's sorted by type for easy selection.\n#~North Tyris Great Furniture Encyclopedia~\n
 item_desc2EN.	
 item_desc3EN.	
 item_desc4EN.	\t\tA small shelf displaying various goods.

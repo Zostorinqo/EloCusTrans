@@ -5,7 +5,7 @@ item_desc1JP.	\t\t”äŠr“IˆÀ‰¿‚ÈŞ¿‚Åo—ˆ‚½Q‹ïBs–¯‚Ì–w‚Ç‚Í‚±‚ê‚ÅQ‹N‚«‚µ‚Ä‚¢‚é
 item_desc2JP.	
 item_desc3JP.	
 item_desc4JP.	\t\t–°‚éˆ×‚Ì‰Æ‹ïiƒ‰ƒ“ƒN‚PjBg—p‚·‚é‚±‚Æ‚ªo—ˆ‚éB\n#`ŠÓ’è•ñ‘FƒQ‹ï„ƒJƒeƒSƒŠ`\n
-item_desc1EN.	\t\tA bed made from relatively inexpensive materials. Most citizens sleep on a bed such as this one.\n#`North Tyris Great Furniture Encyclopedia`\n
+item_desc1EN.	\t\tA bed made from relatively inexpensive materials. Most citizens sleep on a bed such as this one.\n#~North Tyris Great Furniture Encyclopedia~\n
 item_desc2EN.	
 item_desc3EN.	
 item_desc4EN.	\t\tA place to sleep (Rank 1). Can be used.
