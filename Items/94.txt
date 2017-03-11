@@ -5,7 +5,7 @@ item_desc1JP.	\t\t淡い光を灯す手持ち用の照明器具。手に持つだけで気分は大探検家だ
 item_desc2JP.	
 item_desc3JP.	
 item_desc4JP.	\t\t携帯しやすい簡易照明。夜間周囲をやや明るく照らす。\n#～鑑定報告書：＜用具＞カテゴリ～\n
-item_desc1EN.	
+item_desc1EN.	\t\tA handheld light source. It makes you feel like an explorer just by holding it.\n#~Today You're an Adventurer - Travel Manual~\n
 item_desc2EN.	
 item_desc3EN.	
-item_desc4EN.	A light source.
+item_desc4EN.	\t\tA light that is easy to carry. Illuminates the surroundings at night somewhat.

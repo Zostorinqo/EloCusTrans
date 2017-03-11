@@ -5,7 +5,7 @@ item_desc1JP.	\t\t水分を蓄えておくために作られた容器。大抵は酒が詰められているが
 item_desc2JP.	
 item_desc3JP.	
 item_desc4JP.	\t\t液体を保持しておく容器。使用することは出来ない。\n#～鑑定報告書：＜用具＞カテゴリ～\n
-item_desc1EN.	
+item_desc1EN.	\t\tA container made to store liquid. Most often used to store alcohol, though there once was a story of an adventurer who had snuck a drink from one, only to find it it full of slime. It'd be better not to carelessly open it.\n#~Side Characters of the City~
 item_desc2EN.	
 item_desc3EN.	
-item_desc4EN.	A barrel for storing items.
+item_desc4EN.	\t\tContainer holding liquid. It cannot be used.

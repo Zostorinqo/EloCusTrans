@@ -88,3 +88,17 @@ Elona+ v1.65 Item ID Reference List
 84		ダイニングテーブル		dining table
 85		様々な鎧				armor
 86		たくさんの雑貨			goods
+87		色とりどりの装飾品		various accessories
+88		グランドピアノ			grand piano
+89		バーテーブルα			bar table alpha
+90		バーテーブルβ			bar table beta
+91		タル					barrel
+92		お洒落な椅子			stylish chair
+93		つるはし				pickaxe
+94		ランタン				lantern
+95		飾り物の鎧			ornamental armor
+96		金床				anvil
+97		密封されたつぼ			sealed vase
+98		開いているつぼ			open vase
+99		勉強机				writing desk
+100		ポーションの棚			potion rack

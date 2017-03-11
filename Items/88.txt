@@ -5,7 +5,7 @@ item_desc1JP.	\t\t非常に重い鍵盤楽器。かつてこのピアノを背負って旅を続けた、一人
 item_desc2JP.	
 item_desc3JP.	
 item_desc4JP.	\t\t巨大でとても重い楽器。使用することが出来る。\n#～鑑定報告書：＜楽器＞カテゴリ～\n
-item_desc1EN.	
+item_desc1EN.	\t\tA very heavy keyed instrument. There are rumors of a musician who traveled carrying this on his back.\n#~The Brilliant Melody of Irva~\n
 item_desc2EN.	
 item_desc3EN.	
-item_desc4EN.	A beautifully crafted piano.
+item_desc4EN.	\t\tA huge, heavy instrument. Can be used.
