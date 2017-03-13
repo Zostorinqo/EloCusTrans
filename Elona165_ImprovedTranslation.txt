@@ -1,0 +1,3 @@
+﻿Translation improvement in source.hsp
+
+buff = lang("これは装甲板ではない、拘束具だ。いつか己の力を制御できなくなったときはこれを身に着け抑え込むがいい。", "This is not a plate armor, it's a restraint. Wear this harness when you can no longer control your power someday and it'll be fine.")
