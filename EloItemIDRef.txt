@@ -40,10 +40,10 @@ Elona+ v1.65 Item ID Reference List
 36		魔力の結晶			mana crystal
 37		太陽の結晶			sun crystal
 38		金塊				gold bar
-39		ルビナスの原石			rubynus					ore
-40		ミカ					mica					ore
-41		エメラルドの原石		emerald					ore
-42		ダイヤモンドの原石		diamond					ore
+39		ルビナスの原石			raw rubynus ore			
+40		ミカ					mica ore
+41		エメラルドの原石		raw emerald	ore
+42		ダイヤモンドの原石		raw diamond	ore
 43		木片				wood chips
 44		クズ石				junk stone
 45		クズ					garbage
@@ -108,10 +108,10 @@ Elona+ v1.65 Item ID Reference List
 104		物置				shed
 105		本たてつきの棚			tidy bookshelf
 106		収納棚				storage rack
-107		いろんな道具			various tools
-108		いろんな雑貨			various goods
+107		いろんな道具			tools
+108		いろんな雑貨			goods
 109		井戸				well					3rd sentence untranslated
-110		いろんな洋服			various clothes
+110		いろんな洋服			clothes
 111		溶解炉				smelter
 112		オーブン				oven
 113		標識				sign

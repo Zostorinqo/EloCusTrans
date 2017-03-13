@@ -1,6 +1,6 @@
 item_id.	41
 name_identJP.	エメラルドの原石
-name_identEN.	emerald
+name_identEN.	raw emerald ore
 item_desc1JP.	\t\tエメラルドの要素が多く含まれた珍しい鉱物。加工の過程を経て、その大きさは極端に小さくなってしまうので、原石の大きさに対してそれほど価値はないとされる。\n#～ヴェルニース鉱物図鑑～\n
 item_desc2JP.	
 item_desc3JP.	

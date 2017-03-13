@@ -1,6 +1,6 @@
 item_id.	42
 name_identJP.	ダイヤモンドの原石
-name_identEN.	diamond
+name_identEN.	raw diamond ore
 item_desc1JP.	\t\tダイヤモンドの要素が多く含まれた珍しい鉱物。加工の過程を経て、その大きさは極端に小さくなってしまうので、原石の大きさに対してそれほど価値はないとされる。\n#～ヴェルニース鉱物図鑑～\n
 item_desc2JP.	
 item_desc3JP.	

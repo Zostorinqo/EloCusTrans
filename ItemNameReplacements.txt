@@ -1,0 +1,35 @@
+Elona+ Custom Item Name Changes
+(Going to put an X in the fourth column as a flag for any that should omit nameref2 (to skip usage of the 'of' according to the name function))
+
+[ID]		[OLD]					[NEW]				[OMIT OF]
+39			rubynus					raw rubynus ore			X
+40			mika					mica ore				X
+41			emerald					emerald ore				X
+42			diamond					raw diamond ore			X
+43			wood piece				wood chips
+47			washing					washings
+48			bonfire					brazier stand
+56			<Diablo>				<Diablos>
+57			<Zantetsu>				<Zantetsuken>
+63			<Scythe of Void>		<Scythe of the Void>
+71			healing					vitality
+75			healer <Eris>			white healer <Eris>
+76			healer <Jure>			sacred healer <Jure>
+80			boring bed				cheap bed
+81			rag doll				plush doll
+87			accessories				various accessories
+92			modern chair			stylish chair
+93			pick					pickaxe
+95			decorative armor		ornamental armor
+97			closed pot				sealed vase						(prior item used vase instead of pot, so changed for consistency)
+98			open pot				open vase
+99			academic table			writing desk
+100			(Rack of) potions		potion rack				X
+104			barn					shed
+105			neat shelf				tidy bookshelf
+106			closet					storage rack
+111			furnace					smelter
+114			crossroad sign			signpost
+115			board					notice board
+124			(Show case of) breads	bread display			X
+125			heal					life
