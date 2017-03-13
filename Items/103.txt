@@ -5,7 +5,7 @@ item_desc1JP.	\t\t食器を入れる為に作られた棚。自由な間仕切りが付いていることで、
 item_desc2JP.	
 item_desc3JP.	
 item_desc4JP.	\t\t食器を収める為の棚だ。\n#～鑑定報告書：＜家具＞カテゴリ～\n
-item_desc1EN.	
+item_desc1EN.	\t\tShelving made to place dishes. Adjustable partitions allow you to store many varities of tableware.\n#~North Tyris Great Furniture Encyclopedia~\n
 item_desc2EN.	
 item_desc3EN.	
-item_desc4EN.	A cupboard to store dishes.
+item_desc4EN.	\t\tA cupboard to store dishes.

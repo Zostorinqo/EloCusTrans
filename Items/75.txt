@@ -1,6 +1,6 @@
 item_id.	75
 name_identJP.	白き癒し手エリスのポーション
-name_identEN.	healer <Eris>
+name_identEN.	white healer <Eris>
 item_desc1JP.	\t\t「白き癒し手」エリスの名の通り、乳白色をした水薬。今までの水薬と違い、抽出物ではなく魔力を直接水に化合している。その為速効性が高く、瀕死の重傷者さえも治癒させる力を秘めているという。\n#～飲めるのみもの、飲めないのみもの～\n
 item_desc2JP.	
 item_desc3JP.	

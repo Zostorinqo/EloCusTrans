@@ -72,12 +72,12 @@ Elona+ v1.65 Item ID Reference List
 68		軽傷治癒のポーション	cure minor wound		potion
 69		重傷治癒のポーション	cure major wound		potion
 70		致命傷治癒のポーション	cure critical wound		potion
-71		体力回復のポーション	healing					potion
+71		体力回復のポーション	vitality				potion
 72		癒し手のポーション		healer					potion
 73		《ラグナロク》			<Ragnarok>
 74		癒し手オディナのポーション healer <Odina>			potion
-75		白き癒し手エリスのポーション healer <Eris>			potion
-76		聖なる癒し手ジュアのポーション healer <Jure>		potion
+75		白き癒し手エリスのポーション white healer <Eris>	potion
+76		聖なる癒し手ジュアのポーション sacred healer <Jure>	potion
 77		丸椅子				round chair
 78		普通の本棚			bookshelf
 79		高級箪笥				luxury drawer
@@ -102,3 +102,28 @@ Elona+ v1.65 Item ID Reference List
 98		開いているつぼ			open vase
 99		勉強机				writing desk
 100		ポーションの棚			potion rack
+101		四角い椅子			square chair
+102		安物の椅子			cheap chair
+103		食器棚				cupboard
+104		物置				shed
+105		本たてつきの棚			tidy bookshelf
+106		収納棚				storage rack
+107		いろんな道具			various tools
+108		いろんな雑貨			various goods
+109		井戸				well					3rd sentence untranslated
+110		いろんな洋服			various clothes
+111		溶解炉				smelter
+112		オーブン				oven
+113		標識				sign
+114		道標				signpost
+115		掲示板				notice board
+116		ショートテレポートの魔法書	minor teleportation		book
+117		空のバスケット			empty basket
+118		モンスター召喚の魔法書	summon monsters			book
+119		軽傷治療の杖			cure minor wound		rod
+120		マジックミサイルの杖		magic missile			rod
+121		サモンモンスターの杖		summon monsters			rod
+122		氷の視線の杖			ice bolt				rod
+123		炎の衝撃の杖			fire bolt				rod
+124		パンの陳列棚			bread display
+125		生命の杖				life					rod

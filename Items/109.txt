@@ -5,7 +5,7 @@ item_desc1JP.	\t\t市民の生命線であり、気軽に水が飲める設備。ご婦人方の社交場であ
 item_desc2JP.	
 item_desc3JP.	
 item_desc4JP.	\t\t水を湛える設備。飲むことが出来る。\n#～鑑定報告書：＜設備＞カテゴリ～\n
-item_desc1EN.	
+item_desc1EN.	\t\tAn installation that provides fresh drinking water, vital for the citizens. Though it offers a place for women to gather and socialize, North Tyris has rather poor water purification technology, thus drinking the water can often bring about trouble.\n#~Side Characters of the City~\n
 item_desc2EN.	
 item_desc3EN.	
-item_desc4EN.	Toss a coin in.
+item_desc4EN.	\t\tFull of water. You can drink from it.
