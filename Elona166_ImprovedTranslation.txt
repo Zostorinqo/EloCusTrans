@@ -1,0 +1,13 @@
+﻿Translation improvement in source.hsp
+
+buff = lang("これは装甲板ではない、拘束具だ。いつか己の力を制御できなくなったときはこれを身に着け抑え込むがいい。", "This is not a plate armor, it's a restraint. Wear this harness when you can no longer control your power someday and it'll be fine.")
+
+buff = lang("街では依頼を受けられるが、アイテムが揃うまでは討伐依頼は避け、他の簡単な依頼を受けるのが賢明だろう。ちなみに配達依頼は簡単だが失敗すると大きな罪に問われる。期限に気をつけることだ。罪を負うと負のカルマが蓄積していき、-31になる頃には指名手配されているだろう。", "You can take up quests in towns, but I recommend you to pass on the extermination quests until you have better gear and just do the simple quests. Delivery quests are easy by the way, but failing incurs big penalties. Be careful of the time limit. The more crimes you commit the lower your Karma goes, you'll be a wanted criminal if it goes below -31.")
+
+buff = lang("(暇そうにしていたキャラバンの隊長は、あなたの視線に気が付いた。)", "(The bored caravan master notices your glance.)")
+
+buff = lang("おや？君、ひょっとしてこの国から出ていきたいのかな？それは無理だよ。今は国境が封鎖されていて、お偉いさんの一団くらいしか通れないんだ。封鎖が解除されたらすぐに交易商たちを運ばなければならないので、私も毎日ここで待っているんだが...。", "Oh? You want to get out of this country? Unfortunately that's impossible because of the border blockade. Only important people can pass. I've been waiting here every day because I must escort these traders immediately, in case the blockade happens to be temporary lifted.")
+
+buff = lang("仮に封鎖が解除されても冒険者は通れないんじゃないかな。ただの交易商なら私が乗せて行ってもいいんだが、私も責任ある立場だからね。冒険者なんて危なくて運べないよ。", "Adventurers cannot pass even if the blockade is temporarily lifted. If you are a trader, I can bring you to South Tyris, but if you're an adventurer I can't bring you because I'm afraid you'd try to snatch our cargo.")
+
+buff = lang("解呪が完了し" + _ta(), "Treatment done. Take care!")
