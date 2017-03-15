@@ -127,3 +127,18 @@ Elona+ v1.65 Item ID Reference List
 123		炎の衝撃の杖			fire bolt				rod
 124		パンの陳列棚			bread display
 125		生命の杖				life					rod
+126		ビーカー				beaker
+127		錬金術の道具			alchemy tools
+128		魔法陣				magic circle
+129		小さい観葉植物		small decorative plant
+130		木香薔薇				banks' rose
+131		大きい観葉植物		large decorative plant
+132		サルビアの花			sage
+133		ガザニアの花			gazania
+134		ネリネの花				nerine
+135		アネモネの花			anemone
+136		猫じゃらし				foxtail grass
+137		カーネーションの花		carnation
+138		植物で飾られた柱		plant adorned pillar
+139		花で飾られた柱			flower adorned pillar
+140		絵描き道具			painting tools
