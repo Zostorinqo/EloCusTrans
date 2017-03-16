@@ -5,7 +5,7 @@ item_desc1JP.	\t\t‘å—¤‘S“y‚ª•`‚©‚ê‚½’n}B–`Œ¯Ò’B‚à‚»‚¤‚Å‚È‚¢Ò‚àA‚±‚ê‚ğ“Ç‚Ş‚±
 item_desc2JP.	
 item_desc3JP.	
 item_desc4JP.	\t\t‘å—¤‚Ì•`‚©‚ê‚½’n}B“Ç‚Ş‚±‚Æ‚ªo—ˆ‚éB\n#`ŠÓ’è•ñ‘Fƒ†•Ğ„ƒJƒeƒSƒŠ`\n
-item_desc1EN.	
+item_desc1EN.	\t\tA map depicting the entire continent. Both adventurers and normalfolk can dream about uncharted locations just from looking at it.\n#~Today You're an Adventurer - Travel Manual~\n
 item_desc2EN.	
 item_desc3EN.	
-item_desc4EN.	A map of world.
+item_desc4EN.	\t\tMap of the continent. Can be read.

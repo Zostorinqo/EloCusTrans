@@ -142,3 +142,43 @@ Elona+ v1.65 Item ID Reference List
 138		植物で飾られた柱		plant adorned pillar
 139		花で飾られた柱			flower adorned pillar
 140		絵描き道具			painting tools
+141		地図				map
+142		調理機				food maker
+143		たくさんの弓			bows
+144		武器の束				weapons
+145		飾られた服			decorated clothing
+146		飾られた鎧			decorated armor
+147		鎧の像				armor statue
+148		散らかった本			disorderly books
+149		本の山				books						UNTLd
+150		名工箪笥				craft rack					UNTLd
+151		名工本棚				craft book shelf			UNTLd
+152		飲みきれないほどの酒	alcohols					UNTLd
+153		調理台				kitchen						UNTLd
+154		流し台				sink						UNTLd
+155		コンロ付き調理台		kitchen oven				UNTLd
+156		狭い食卓				narrow dining table			UNTLd
+157		上品なテーブル			elegant table				UNTLd
+158		絢爛な燭台			gorgeous candlestick		UNTLd
+159		単なる棚				simple shelf				UNTLd
+160		裁縫セット			sewing kit					UNTLd
+161		工具				carpenter's tool			UNTLd
+162		散らばった衣類			messy cloth					UNTLd
+163		絹の生地				silk cloth					UNTLd
+164		風化した墓			collapsed grave				UNTLd
+165		崩れた墓				crumbled grave				UNTLd
+166		花で飾られた墓			ornamented with flowers		UNTLd
+167		新品の墓				brand new grave				UNTLd
+168		荘厳な墓				solemn tomb					UNTLd
+169		古墳				ancient tomb				UNTLd
+170		古めかしい墓			old grave					UNTLd
+171		祭壇				altar						UNTLd
+172		儀式用の祭壇			ceremony altar				UNTLd
+173		噴水				fountain					UNTLd
+174		二段ベッド			bunk bed					UNTLd
+175		稲妻の軌跡の杖		lightning					rod UNTLd
+176		鈍足の杖				slow						rod UNTLd
+177		クワパナ				quwapana					UNTLd
+178		アロエ				aloe						UNTLd
+179		山菜				edible wild plant			UNTLd
+180		リンゴ				apple						UNTLd

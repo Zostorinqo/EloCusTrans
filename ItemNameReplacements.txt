@@ -44,3 +44,6 @@ Elona+ Custom Item Name Changes
 138 || statue ornamented with plants || plant adorned pillar
 139	|| statue ornamented with flowers || flower adorned pillar
 140 || canvas || painting tools
+145 || decorated cloth || decorate clothing
+147 || armor || armor statue
+148 || disorderly book || disorderly books
