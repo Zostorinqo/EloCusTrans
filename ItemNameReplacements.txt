@@ -47,3 +47,4 @@ Elona+ Custom Item Name Changes
 145 || decorated cloth || decorate clothing
 147 || armor || armor statue
 148 || disorderly book || disorderly books
+199 || cbocchi || squash

@@ -176,9 +176,29 @@ Elona+ v1.65 Item ID Reference List
 172		儀式用の祭壇			ceremony altar				UNTLd
 173		噴水				fountain					UNTLd
 174		二段ベッド			bunk bed					UNTLd
-175		稲妻の軌跡の杖		lightning					rod UNTLd
-176		鈍足の杖				slow						rod UNTLd
-177		クワパナ				quwapana					UNTLd
-178		アロエ				aloe						UNTLd
-179		山菜				edible wild plant			UNTLd
-180		リンゴ				apple						UNTLd
+175		稲妻の軌跡の杖		lightning					rod
+176		鈍足の杖				slow						rod
+177		クワパナ				quwapana
+178		アロエ				aloe
+179		山菜				edible wild plant
+180		リンゴ				apple
+181		ブドウ				grape
+182		キウイ				kiwi
+183		さくらんぼ				cherry
+184		グアバ				guava
+185		キャロット				carrot
+186		大根				radish						UNTLd
+187		さつまいも				sweet potato				UNTLd
+188		レタス				lettuce						UNTLd
+189		食器の山				dish						UNTLd
+190		イーモ				imo							UNTLd
+191		アピの実				api nut						UNTLd
+192		苺					strawberry					UNTLd
+193		薬草				healthy leaf				UNTLd
+194		万色フルーツ			rainbow fruit				UNTLd
+195		クッチェ				qucche						UNTLd
+196		夏ミカン				tangerine					UNTLd
+197		レモン				lemon						UNTLd
+198		グリーンピース			green pea					UNTLd
+199		カボチ				squash						UNTLd (japanese typo, supposed to be カボチャ)
+200		ウリ					melon						UNTLd
