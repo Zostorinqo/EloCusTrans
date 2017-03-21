@@ -1,4 +1,4 @@
-﻿Translation improvement in source.hsp
+﻿Translation improvement in source.hsp (elona custom unofficial 1.66.3HF1) (fixing Engrish into English, mistranslation etc)
 
 buff = lang("これは装甲板ではない、拘束具だ。いつか己の力を制御できなくなったときはこれを身に着け抑え込むがいい。", "This is not a plate armor, it's a restraint. Wear this harness when you can no longer control your power someday and it'll be fine.")
 
@@ -11,3 +11,98 @@ buff = lang("おや？君、ひょっとしてこの国から出ていきたい�
 buff = lang("仮に封鎖が解除されても冒険者は通れないんじゃないかな。ただの交易商なら私が乗せて行ってもいいんだが、私も責任ある立場だからね。冒険者なんて危なくて運べないよ。", "Adventurers cannot pass even if the blockade is temporarily lifted. If you are a trader, I can bring you to South Tyris, but if you're an adventurer I can't bring you because I'm afraid you'd try to snatch our cargo.")
 
 buff = lang("解呪が完了し" + _ta(), "Treatment done. Take care!")
+
+buff = lang("僕の大切な信者を奪うのなら...誰だって許さない...。...どんな手を使ってでも...取り戻してみせる...。", "If someone takes away my precious followers, I will not forgive them... and I'll make sure to get them back.")
+
+buff = lang("お客さん、この先に進みたいんですか？ここから先は危ないので封鎖してしまったんですよ。うちの商品を買ってくれるのなら、カギを渡してもいいですねぇ。悪い話じゃないと思うんですけど。", "Are you sure you want to proceed beyond this point? It's dangerous ahead so it was blockaded. If you're willing to buy some of my goods, I'll give you the key. Not a bad deal eh?")
+
+listn(0, listmax) = lang("いらん", "I don't need it.")
+
+listn(0, listmax) = lang("殺してでもカギを奪い取る", "I'll take the key from your dead body.")
+
+buff = lang("さぁ、カギが欲しければ商品を買っていくしかないですよぉ。", "Well then, if you want the key there's no choice but to buy the goods.")
+
+buff = lang("殺されてでもカギは落とさないですねぇ。ちゃんと四次元ポケットに入れてるので。", "Even if you manage to kill me, I will not drop the key. The key is inside a 4-Dimensional Pocket.")
+
+buff = lang("はぁい、毎度ありです！じゃあ鍵も渡しておくですよ。", "Thank you for your purchase! Here's the key as well.")
+
+	if ( jp ) {
+		_namespellbook = "分厚い", "苔むした", "真新しい", "豪華な", "古びた", "血の滴る"
+	}
+	if ( en ) {
+		_namespellbook = "thick", "mossy", "brand new", "luxurious", "old", "bloody"
+	}
+
+	if ( jp ) {
+		_namescroll = "かすれた", "苔むした", "ぼろぼろの", "難しそうな", "古びた", "血文字の"
+	}
+	if ( en ) {
+		_namescroll = "blurred", "mossy", "tattered", "complicated", "old", "bloody"
+	}
+	
+	if ( jp ) {
+		_homename = "洞窟", "森のほったて小屋", "住み心地のいい家", "セレブ邸", "サイバーハウス", "小城", "宮殿"
+		_furniture = "", "みすぼらしい", "気になる", "いい感じの", "マダム殺しの", "思わず見入りそうな", "マニア向けの", "凄く華麗な", "王家御用達の", "芸術的な", "神々しい", "世界最高の"
+		_weight = "超ミニに", "小振りに", "手ごろに", "やや大きく", "どでかく", "かなり巨大に", "化け物サイズに", "人より大きく", "伝説的サイズに", "象より重く"
+	}
+	else {
+		_homename = "cave", "shack", "cozy house", "estate", "cyber house", "small castle", "palace"
+		_furniture = "", "shabby", "uncomfy", "comfy", "madam's favorite", "bewitched", "enthusiast", "magnificent", "royal", "masterpiece", "heavenly", "godly"
+		_weight = "extremely tiny", "small", "hand-sized", "rather big", "huge", "pretty huge", "monster-sized", "bigger than a man", "legendary-sized", "heavier than an elephant"
+	}
+	
+txt_select lang("「Ｑ．次の中で実際にいる魚は？」", "Which is the correct name of the fish?"), "", "", "", "", "", "", "", ""
+
+txt_select lang("「Ｑ．元素の神の名前は？」", "Who is the god of Elements?"), "", "", "", "", "", "", "", ""
+
+txt_select lang("「Ｑ．レシマスを進むのに必要だった魔石はどれ？」", "Which quest item is the key of Lesimas?"), "", "", "", "", "", "", "", ""
+
+txt_select lang("「Ｑ．異形の森の魔女とも呼ばれるエレアの少女は？」", "Who is the listener of the wind?"), "", "", "", "", "", "", "", ""
+
+txt_select lang("「Ｑ．次の中で通常、最もレベルの高いゴーレムは？」", "Which golem has the highest level?"), "", "", "", "", "", "", "", ""
+
+txt_select lang("「Ｑ．次の中で死体に毒が含まれていないのは？」", "Which monster does not have a poisonous corpse?"), "", "", "", "", "", "", "", ""
+
+txt_select lang("「Ｑ．次の中で名前の正確なハウンドは？」", "Which is the correct name of the monster?"), "", "", "", "", "", "", "", ""
+
+txt_select lang("「Ｑ．次の中で通常、最もレベルの高いキャラは？」", "Which human has the highest level?"), "", "", "", "", "", "", "", ""
+
+txt_select lang("「Ｑ．次の中で一番高価なのは？」", "Which item is the most expensive?"), "", "", "", "", "", "", "", ""
+
+txt_select lang("「Ｑ．次の中で主能力：感覚を特に鍛えるハーブは？」", "Which herb grows PER the most?"), "", "", "", "", "", "", "", ""
+
+txt_select lang("「Ｑ．次の中で果実の木から降ってこないのは？」", "Which item does not fall down from fruits trees?"), "", "", "", "", "", "", "", ""
+
+txt_select lang("「Ｑ．次の中で魔法書が存在しない魔法は？」", "Which magic spellbook does not exist?"), "", "", "", "", "", "", "", ""
+
+txt_select lang("「Ｑ．九頭竜の城に住む深海の姫の名前は？」", "Which is the correct name of the turtle in Valm?"), "", "", "", "", "", "", "", ""
+
+txt_select lang("「Ｑ．キミが葬祭の『アヌビス』から回収したものは？」", "Which item did you rob from <Anubis> the master of death?"), "", "", "", "", "", "", "", ""
+	
+txt_select lang("「Ｑ．魔術士ギルドの番人の名前は？」", "Who is the watchman of the mage guild?"), "", "", "", "", "", "", "", ""
+
+txt_select lang("「Ｑ．次の中で一番重いのは？」", "Which item is heaviest?"), "", "", "", "", "", "", "", ""
+
+txt_select lang("「Ｑ．次の中で主能力：魅力を特に鍛えるハーブは？」", "Which herb grows CHR the most?"), "", "", "", "", "", "", "", ""
+
+txt_select lang("「Ｑ．レシマスを進むのに必要ない魔石はどれ？」", "Which quest item is not a key of Lesimas?"), "", "", "", "", "", "", "", ""
+
+txt_select lang("「Ｑ．偽りの予言者とパルミア第三代王の関係は？」", "What kind of relationship does the false prophet and the third king of Palmia have?"), "", "", "", "", "", "", "", ""
+
+txt_select lang("「Ｑ．魔術士ギルドの調査員の名前は？」", "Who is the reporter of the mage guild?"), "", "", "", "", "", "", "", ""
+
+s(cnt) = lang("拾い食いの禁止/解除", "Prohibit the eating of picked up food.")
+
+s(cnt) = lang("アイテム拾いのを禁止/解除", "Prohibit the picking up of items.")
+
+buff = lang("(" + name(tc) + "に、足元のアイテムを我慢しなくていいことを伝えた)", "(You instructed to do as you like with items on the ground.)")
+
+buff = lang("(" + name(tc) + "に、足元のアイテムを我慢するよう指示した)", "(You instructed to not pick up items off the ground.)")
+
+listn(0, listmax) = lang("アイテム我慢解除", "Do as you like with items on the ground.")
+
+listn(0, listmax) = lang("足元のアイテム我慢", "Don't pick up items off the ground.")
+
+buff = lang("前のエヘカトルも大変だったみたいなの！あ...。前のエヘカトルなんていないよ！よ！今の聞かなかったことにしてね？してね？", "Something bad has happened to Ehekatl! Ahhh... Ehekatl is gone! Ehekatl is gone! You didn't hear any of this alright? Alright!?")
+
+skilldesc(168) = lang("盾を扱う技術", "Increases the effectiveness of using shields.")
