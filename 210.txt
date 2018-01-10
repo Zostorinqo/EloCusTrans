@@ -1,0 +1,42 @@
+npcname_JP.	–…”L
+npcname_EN.	younger cat sister
+numflavor_passiveJP.	7
+numflavor_passiveEN.	7
+flavorpassive_JP.0	u%onii%‚¿‚á‚ñ[v
+flavorpassive_JP.1	u%onii%‚¿‚á‚ñIv
+flavorpassive_JP.2	u%onii%‚¿‚á`‚ñv
+flavorpassive_JP.3	u%onii%‚¿‚á‚ñ‚Áv
+flavorpassive_JP.4	u%onii%‚¿‚á‚ñHv
+flavorpassive_JP.5	u%onii%`‚¿‚á‚ñv
+flavorpassive_JP.6	u%onii%‚¿‚á‚ñôv
+flavorpassive_EN.0	"%onii%-err..."
+flavorpassive_EN.1	"%onii%!"
+flavorpassive_EN.2	"Yo, %onii%"
+flavorpassive_EN.3	"Hi, %onii%"
+flavorpassive_EN.4	"%onii%?"
+flavorpassive_EN.5	"Hi~ %onii%"
+flavorpassive_EN.6	"%onii% ô"
+numflavor_angeredJP.	0
+numflavor_angeredEN.	0
+numflavor_deathJP.	1
+numflavor_deathEN.	1
+flavordeath_JP.0	uƒ_ƒ‚¥‚É‚áIv
+flavordeath_EN.0	"Nyo way!"
+numflavor_killJP.	4
+numflavor_killEN.	4
+flavorkill_JP.0	‚ ‚È‚½‚Í–…‚Ì“ª‚ğ‚È‚Å‚½B
+flavorkill_JP.1	‚ ‚È‚½‚Í–…‚Ìp‚É–Ú‚ğ×‚ß‚½B
+flavorkill_JP.2	–…‚Íã–Ú‚Ã‚©‚¢‚É‚ ‚È‚½‚ÌŠç‚ğ”`‚¢‚½B
+flavorkill_JP.3	u‚¤‚É‚á‚ñv
+flavorkill_EN.0	You gently stroke the younger sister's hair.
+flavorkill_EN.1	You squinted at how the sister looks right now.
+flavorkill_EN.2	The sister sneaks an upward glance into your face.
+flavorkill_EN.3	"Nyan"
+numflavor_welcomeJP.	3
+numflavor_welcomeEN.	3
+flavorwelcome_JP.0	u‚¨‚©‚¦‚è‚É‚áA%onii%‚¿‚á‚ñIv
+flavorwelcome_JP.1	u‚¨‚©‚¦‚è‚È‚³‚¢‚É‚á[A%onii%‚¿‚á‚ñôv
+flavorwelcome_JP.2	u‘Ò‚Á‚Ä‚½‚É‚áA%onii%‚¿‚á‚ñv
+flavorwelcome_EN.0	"%onii%, welcomeow."
+flavorwelcome_EN.1	"You're homeow, %onii% ô"
+flavorwelcome_EN.2	"Nya, I've been waiting for you, %onii%"

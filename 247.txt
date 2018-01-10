@@ -1,0 +1,31 @@
+npcname_JP.	”L‚©‚Ô‚èwƒ~[ƒAx
+npcname_EN.	<Mia> the cat freak
+numflavor_passiveJP.	7
+numflavor_passiveEN.	8
+flavorpassive_JP.0	u‚é‚ñ‚é‚ñ‚é‚ñôv
+flavorpassive_JP.1	u‚¤‚İ‚İ‚áHv
+flavorpassive_JP.2	u‚É‚µ‚µIv
+flavorpassive_JP.3	u‚Ó`‚ñ‚Ó`‚ñ‚Ó`‚ñô1v
+flavorpassive_JP.4	u‚«‚Ì‚±‚Ì‚±‚Ì‚±‚°‚ñ‚«‚Ì‚±‚§`ô v
+flavorpassive_JP.5	u‚¨[B‚¦‚è‚ñ‚¬‚Ü‚¢‚½‚¯‚Ô‚È‚µ‚ß‚¶‚¡`v
+flavorpassive_JP.6	uƒt[ƒ“@ƒtƒ“ƒtƒ“@ƒt[ƒ“@ƒtƒ“ƒtƒ“@ƒlƒR‚Ìƒt`ƒ“ô@ƒt[ƒ“@ƒtƒ“ƒtƒ“@ƒt[ƒ“@ƒtƒ“ƒtƒ“@‚©‚½‚¢ôv
+flavorpassive_EN.0	"I nyo talk funny, nyou talk funnyô"
+flavorpassive_EN.1	"Nyah! Water! I hates it so."
+flavorpassive_EN.2	"Pug!"
+flavorpassive_EN.3	"Nyo touching! No Bump-Bump for nyou."
+flavorpassive_EN.4	"ôNyobody knyows the touble Mia's seen, nyobody knyows Mia's Tru-bullô"
+flavorpassive_EN.5	You hear the oddest voice in the crowd, it is lilting and...cat-like?
+flavorpassive_EN.6	"ôMeow-meow meow-meow, meow-meow meow-meowô"
+flavorpassive_EN.7	Sounds like a childish song about... mushrooms?
+numflavor_angeredJP.	0
+numflavor_angeredEN.	0
+numflavor_deathJP.	1
+numflavor_deathEN.	1
+flavordeath_JP.0	u‚Í‚í‚íA‚«‚Á‚Æ—ˆ¢‚Í”L‚É¶‚Ü‚ê‚é‚ñ‚¾ƒ‚ƒ“v
+flavordeath_JP.0	"Squee... I'll be reborn in the nyext world as a cat"
+numflavor_killJP.	1
+numflavor_killEN.	1
+flavorkill_JP.0	uƒA[ƒ“AƒoƒJôv
+flavorkill_EN.0	"Ahnyou idiotô"
+numflavor_welcomeJP.	0
+numflavor_welcomeEN.	0

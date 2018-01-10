@@ -1,0 +1,18 @@
+npcname_JP.	s‹@ŠB‚Ìƒ}ƒjt
+npcname_EN.	<Mani>
+numflavor_passiveJP.	0
+numflavor_passiveEN.	0
+numflavor_angeredJP.	0
+numflavor_angeredEN.	0
+numflavor_deathJP.	0
+numflavor_deathEN.	0
+numflavor_killJP.	2
+numflavor_killEN.	2
+flavorkill_JP.0	u“–‘R‚ÌŒ‹‰Ê‚¾‚Èv
+flavorkill_JP.1	uõ“GŠJnv
+flavorkill_EN.0	"This is the natural result"
+flavorkill_EN.1	"Start searching the enemy"
+numflavor_welcomeJP.	1
+numflavor_welcomeEN.	1
+flavorwelcome_JP.0	u‹AŠÒ‚ğŠm”F‚µ‚½B¬‰Ê‚ğ•ñ‚¹‚æv
+flavorwelcome_EN.0	"Your return is confirmed. Please deliver your report on the results."

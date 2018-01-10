@@ -1,0 +1,18 @@
+npcname_JP.	s•x‚Ìƒ„ƒJƒeƒNƒgt
+npcname_EN.	<Yacatect>
+numflavor_passiveJP.	0
+numflavor_passiveEN.	0
+numflavor_angeredJP.	0
+numflavor_angeredEN.	0
+numflavor_deathJP.	0
+numflavor_deathEN.	0
+numflavor_killJP.	2
+numflavor_killEN.	2
+flavorkill_JP.0	u‚¿‚å‚ë‚¢‚¿‚å‚ë‚¢v
+flavorkill_JP.1	u‚Ç‚â‚ÁIv
+flavorkill_EN.0	"Your death came cheap"	
+flavorkill_EN.1	"Why you!"
+numflavor_welcomeJP.	1
+numflavor_welcomeEN.	1
+flavorwelcome_JP.0	u‚²”Ñ‚É‚·‚é‚ñH‚¨•—˜C‚É‚·‚é‚ñH‚»‚ê‚Æ‚àA‚¨E•zE{Hv
+flavorwelcome_EN.0	"Would you like dinner? A bath? Or perhaps... make a donation?"
