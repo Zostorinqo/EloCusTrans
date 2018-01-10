@@ -15,4 +15,4 @@ flavorkill_EN.1	"Time for the Grand Finale!"
 numflavor_welcomeJP.	1
 numflavor_welcomeEN.	1
 flavorwelcome_JP.0	u‹AŠÒ‚ğŠm”F‚µ‚½B¬‰Ê‚ğ•ñ‚¹‚æv
-flavorwelcome_EN.0	"Your return is confirmed. Please deliver your report on the results."
+flavorwelcome_EN.0	"Your return is confirmed. Please deliver your report on the results."

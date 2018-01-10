@@ -15,4 +15,4 @@ flavorkill_EN.1	"Why do you sleep so peacefully?"
 numflavor_welcomeJP.	1
 numflavor_welcomeEN.	1
 flavorwelcome_JP.0	u‚²”Ñ‚É‚·‚é‚ñH‚¨•—˜C‚É‚·‚é‚ñH‚»‚ê‚Æ‚àA‚¨E•zE{Hv
-flavorwelcome_EN.0	"Would you like dinner? A bath? Or perhaps... make a donation?"
+flavorwelcome_EN.0	"Would you like dinner? A bath? Or perhaps... make a donation?"

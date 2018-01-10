@@ -7,8 +7,8 @@ flavorpassive_JP.1	ÅuÇ›Ç„Å[Åv
 flavorpassive_JP.2	ÅuÇ›Ç·Åv
 flavorpassive_JP.3	 *Ç≤ÇÎÇ≤ÇÎ* 
 flavorpassive_EN.0	"Mi mi"
-flavorpassive_EN.1	Å"Meww"
-flavorpassive_EN.2	Å"Mya"
+flavorpassive_EN.1	"Meww"
+flavorpassive_EN.2	"Mya"
 flavorpassive_EN.3	 *purr* 
 numflavor_angeredJP.	3
 numflavor_angeredEN.	3
