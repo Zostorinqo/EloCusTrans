@@ -3,7 +3,7 @@ npcname_EN.	sister
 numflavor_passiveJP.	4
 numflavor_passiveEN.	4
 flavorpassive_JP.0	誰かが祈りを捧げる声が聞こえる。
-flavorpassive_JP.1	「おお、この迷える子猫に道標の光を...」
+flavorpassive_JP.1	「おお、この迷える子猫に道標の光を…」
 flavorpassive_JP.2	「祈りなさい。どんな時でも救いはあります」
 flavorpassive_JP.3	「他人を憎んではなりません」
 flavorpassive_EN.0	You hear the chants of prayer in the distance.
@@ -16,7 +16,7 @@ flavorangered_JP.0	「償いなさい」
 flavorangered_JP.1	「あなたには罰が必要なようですね」
 flavorangered_JP.2	「てめー♪」
 flavorangered_JP.3	「くそがーっ」
-flavorangered_EN.0	"Atone for you sin."
+flavorangered_EN.0	"Atone for your sin."
 flavorangered_EN.1	"Well, you need to be punished."
 flavorangered_EN.2	"You sonova..."
 flavorangered_EN.3	"Shit!"
@@ -32,7 +32,5 @@ numflavor_welcomeJP.	2
 numflavor_welcomeEN.	2
 flavorwelcome_JP.0	「お怪我はありませんか？」
 flavorwelcome_JP.1	「無事な姿で何よりです。おかえりなさい」
-flavorwelcome_EN.0	"Are you wonded?"
-flavorwelcome_EN.1	"Good to see you again. Welcome home."
-flavorwelcome_EN.0	"Are you wonded?"
+flavorwelcome_EN.0	"Are you wounded?"
 flavorwelcome_EN.1	"Good to see you again. Welcome home."

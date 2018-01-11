@@ -7,9 +7,12 @@ numflavor_angeredEN.	0
 numflavor_deathJP.	0
 numflavor_deathEN.	0
 numflavor_killJP.	2
-numflavor_killEN.	0
+numflavor_killEN.	2
 flavorkill_JP.0	「今日の私は機嫌が悪いの」
 flavorkill_JP.1	「次にぐしゃぐしゃになりたいのは、誰？」
+flavorkill_EN.0	"I'm in a bad mood today"
+flavorkill_EN.1	"Who wants to be next?"
 numflavor_welcomeJP.	1
-numflavor_welcomeEN.	0
+numflavor_welcomeEN.	1
 flavorwelcome_JP.0	「手土産のひとつくらいあるんでしょうね」
+flavorwelcome_EN.0	"It looks like you only brought one souvenir." 

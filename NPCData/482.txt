@@ -7,9 +7,12 @@ numflavor_angeredEN.	0
 numflavor_deathJP.	0
 numflavor_deathEN.	0
 numflavor_killJP.	2
-numflavor_killEN.	0
+numflavor_killEN.	2
 flavorkill_JP.0	「ちょろいちょろい」
 flavorkill_JP.1	「どやっ！」
+flavorkill_EN.0	"Your death came cheap"	
+flavorkill_EN.1	"Why you!"
 numflavor_welcomeJP.	1
-numflavor_welcomeEN.	0
+numflavor_welcomeEN.	1
 flavorwelcome_JP.0	「ご飯にするん？お風呂にするん？それとも、お・布・施？」
+flavorwelcome_EN.0	"Would you like dinner? A bath? Or perhaps... make a donation?"

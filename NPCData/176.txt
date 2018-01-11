@@ -1,29 +1,46 @@
 npcname_JP.	–…
 npcname_EN.	younger sister
 numflavor_passiveJP.	6
-numflavor_passiveEN.	0
-flavorpassive_JP.0	u‚ ‚»‚Ú[‚æBig bro‚¿‚á‚ñ[v
-flavorpassive_JP.1	uBig bro‚¿‚á‚ñ‚¾‚¢‚·‚«Iv
-flavorpassive_JP.2	uBig bro‚¿‚á`‚ñô1v
+numflavor_passiveEN.	6
+flavorpassive_JP.0	u‚ ‚»‚Ú[‚æ%onii%‚¿‚á‚ñ[v
+flavorpassive_JP.1	u%onii%‚¿‚á‚ñ‚¾‚¢‚·‚«Iv
+flavorpassive_JP.2	u%onii%‚¿‚á`‚ñô1v
 flavorpassive_JP.3	–…‚ÍŠÃ‚¦‚é‚æ‚¤‚Èº‚ğo‚µ‚Ä‚¢‚éB
-flavorpassive_JP.4	u‚¤[...–³‹‚µ‚È‚¢‚Å‚æ‚§v
-flavorpassive_JP.5	uBig bro‚¿‚á‚ñ™v
+flavorpassive_JP.4	u‚¤[c–³‹‚µ‚È‚¢‚Å‚æ‚§v
+flavorpassive_JP.5	u%onii%‚¿‚á‚ñ™v
+flavorpassive_EN.0	"Let's plaay, %onii%"
+flavorpassive_EN.1	"%onii%, love you!"
+flavorpassive_EN.2	"%onii%-errr ô"
+flavorpassive_EN.3	The younger sister hums happily
+flavorpassive_EN.4	"Uhmm... don't ignore me"
+flavorpassive_EN.5	"%onii%t'r™"
 numflavor_angeredJP.	3
-numflavor_angeredEN.	0
+numflavor_angeredEN.	3
 flavorangered_JP.0	u‚·‚Á‚²[‚¢v
-flavorangered_JP.1	uBig bro‚¿‚á‚ñ‚É‚¢‚¢‚Æ‚±Œ©‚¹‚é‚¼`Iv
+flavorangered_JP.1	u%onii%‚¿‚á‚ñ‚É‚¢‚¢‚Æ‚±Œ©‚¹‚é‚¼`Iv
 flavorangered_JP.2	u‚¯‚µ‚Æ‚ñ‚¶‚á‚¦v
+flavorangered_EN.0	"Wonderful"
+flavorangered_EN.1	"%onii%‚ now I can show off my good points."
+flavorangered_EN.2	"Isn't this a pity?"
 numflavor_deathJP.	2
-numflavor_deathEN.	0
+numflavor_deathEN.	2
 flavordeath_JP.0	u‚ç‚ß‚¥Iv
 flavordeath_JP.1	u‚È‚ñ‚Å‚â‚Ë‚ñv
+flavordeath_EN.0	"Laame!"
+flavordeath_EN.1	"Why?"
 numflavor_killJP.	3
-numflavor_killEN.	0
+numflavor_killEN.	3
 flavorkill_JP.0	‚ ‚È‚½‚Í–…‚Ì“ª‚ğ‚È‚Å‚½B
 flavorkill_JP.1	‚ ‚È‚½‚Í–…‚Ìp‚É–Ú‚ğ×‚ß‚½B
 flavorkill_JP.2	–…‚Íã–Ú‚Ã‚©‚¢‚É‚ ‚È‚½‚ÌŠç‚ğ”`‚¢‚½B
+flavorkill_EN.0	You gently stroke the younger sister's hair.
+flavorkill_EN.1	You squinted at how the sister looks right now.
+flavorkill_EN.2	The sister sneaks an upward glance into your face.
 numflavor_welcomeJP.	3
-numflavor_welcomeEN.	0
-flavorwelcome_JP.0	u‚¨‚©‚¦‚èABig bro‚¿‚á‚ñIv
-flavorwelcome_JP.1	u‚¨‚©‚¦‚è‚È‚³[‚¢ABig bro‚¿‚á‚ñôv
-flavorwelcome_JP.2	u‘Ò‚Á‚Ä‚½‚æABig bro‚¿‚á‚ñv
+numflavor_welcomeEN.	3
+flavorwelcome_JP.0	u‚¨‚©‚¦‚èA%onii%‚¿‚á‚ñIv
+flavorwelcome_JP.1	u‚¨‚©‚¦‚è‚È‚³[‚¢A%onii%‚¿‚á‚ñôv
+flavorwelcome_JP.2	u‘Ò‚Á‚Ä‚½‚æA%onii%‚¿‚á‚ñv
+flavorwelcome_EN.0	"%onii%, welcome back!"
+flavorwelcome_EN.1	"You're home, %onii% ô"
+flavorwelcome_EN.2	"I've been waiting for you, %onii%"

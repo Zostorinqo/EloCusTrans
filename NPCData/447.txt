@@ -1,11 +1,13 @@
 npcname_JP.	猫ゾンビ
-npcname_EN.	cat
+npcname_EN.	cat zombie
 numflavor_passiveJP.	1
-numflavor_passiveEN.	0
-flavorpassive_JP.0	ぐちょぐちょ...
+numflavor_passiveEN.	1
+flavorpassive_JP.0	ぐちょぐちょ…
+flavorpassive_EN.0	Gch ygch
 numflavor_angeredJP.	1
-numflavor_angeredEN.	0
+numflavor_angeredEN.	1
 flavorangered_JP.0	「ぐしゃああああああ」
+flavorangered_EN.0	"Gshaaaaaa"
 numflavor_deathJP.	0
 numflavor_deathEN.	0
 numflavor_killJP.	1

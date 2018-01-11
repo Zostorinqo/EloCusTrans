@@ -13,7 +13,7 @@ flavorangered_EN.2	"Why are you doing this?"
 numflavor_deathJP.	3
 numflavor_deathEN.	3
 flavordeath_JP.0	「ブラックリストにのせてやる！」
-flavordeath_JP.1	「がっ...！？」
+flavordeath_JP.1	「がっ…！？」
 flavordeath_JP.2	「なんとぉ！？」
 flavordeath_EN.0	"You are cruel."
 flavordeath_EN.1	"Ahhhh!"
@@ -23,6 +23,6 @@ numflavor_killEN.	2
 flavorkill_JP.0	「ゴミめ！」
 flavorkill_JP.1	「所詮は負け犬よ」
 flavorkill_EN.0	"Weak! Weak!"
-flavorkill_EN.1	"Huh?"
+flavorkill_EN.1	"Huh? After all that, you were just a loser?"
 numflavor_welcomeJP.	0
 numflavor_welcomeEN.	0
