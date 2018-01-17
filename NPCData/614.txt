@@ -3,19 +3,28 @@ npcname_EN.	juere demon soldier
 numflavor_passiveJP.	0
 numflavor_passiveEN.	0
 numflavor_angeredJP.	4
-numflavor_angeredEN.	0
-flavorangered_JP.0	u‚¢‚¢‹C•ª‚¾...‚Æ‚Ä‚à...v
-flavorangered_JP.1	uƒNƒNƒN...v
+numflavor_angeredEN.	4
+flavorangered_JP.0	u‚¢‚¢‹C•ª‚¾c‚Æ‚Ä‚àcv
+flavorangered_JP.1	uƒNƒNƒNcv
 flavorangered_JP.2	u‚³‚ŸA‚Ç‚ñ‚È€‚É•û‚ğ‚µ‚½‚¢Hv
 flavorangered_JP.3	u‚Ğ‚ĞA‚Ğ‚Ğ‚Ğ‚Ğ‚ĞIv
+flavorangered_EN.0	"That feels... I feel really great. So good..."
+flavorangered_EN.1	"Kyahahahaha!"
+flavorangered_EN.2	"Now, what kind of death would you like?"
+flavorangered_EN.3	"Hee hee, heheheheheh!"
 numflavor_deathJP.	3
 numflavor_deathEN.	0
 flavordeath_JP.0	u”n­‚ÈI”n­‚È‚Ÿ‚Ÿ‚Ÿ‚Ÿ‚ÁIIv
 flavordeath_JP.1	u‚®‚¬‚¬‚¬‚¡Iv
-flavordeath_JP.2	u‚à‚Á‚Æ...—Í‚ğ‚ÁIv
+flavordeath_JP.2	u‚à‚Á‚Æc—Í‚ğ‚ÁIv
+flavordeath_EN.0	"Foolish! Uselessss!!"
+flavordeath_EN.1	"Guh, ugggh"
+flavordeath_EN.2	"More... power! "
 numflavor_killJP.	2
-numflavor_killEN.	0
-flavorkill_JP.0	u—Í‚¾...I‚±‚ê‚ª—Í‚¾Iv
-flavorkill_JP.1	u‚Í‚Ÿ[‚ÁA‚Í‚Ÿ[‚ÁI‚Ó...‚Í‚Í‚Í‚Í‚ÍIv
+numflavor_killEN.	2
+flavorkill_JP.0	u—Í‚¾cI‚±‚ê‚ª—Í‚¾Iv
+flavorkill_JP.1	u‚Í‚Ÿ[‚ÁA‚Í‚Ÿ[‚ÁI‚Óc‚Í‚Í‚Í‚Í‚ÍIv
+flavorkill_EN.0	"It's power ... this is power!"
+flavorkill_EN.1	"Hah, haha! Wahahahahaha!"
 numflavor_welcomeJP.	0
 numflavor_welcomeEN.	0
