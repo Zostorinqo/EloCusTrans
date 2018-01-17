@@ -1,26 +1,40 @@
 npcname_JP.	見習い天使
 npcname_EN.	apprentice angel
 numflavor_passiveJP.	3
-numflavor_passiveEN.	0
+numflavor_passiveEN.	3
 flavorpassive_JP.0	「自分なりにがんばります」
-flavorpassive_JP.1	「言葉に出さなくても通じ合う...そんなの、嘘ですよね」
-flavorpassive_JP.2	「私の代わりなんてたくさんいる...そう思いませんか？」
+flavorpassive_JP.1	「言葉に出さなくても通じ合う…そんなの、嘘ですよね」
+flavorpassive_JP.2	「私の代わりなんてたくさんいる…そう思いませんか？」
+flavorpassive_EN.0	"I will work my hardest for all of us."
+flavorpassive_EN.1	"You can communicate even if you choose not to say anything... that's such a deception, huh?"
+flavorpassive_EN.2	"There are many others who could take my place, don't you agree?"
 numflavor_angeredJP.	4
-numflavor_angeredEN.	0
-flavorangered_JP.0	「勝たなきゃ、勝たなきゃ意味がない...」
+numflavor_angeredEN.	4
+flavorangered_JP.0	「勝たなきゃ、勝たなきゃ意味がない…」
 flavorangered_JP.1	「これ以上は無意味、降伏を要求します」
 flavorangered_JP.2	「典型的なアレですね、敵ではありません」
-flavorangered_JP.3	「結局、戦うしかないようですね...行きます」
+flavorangered_JP.3	「結局、戦うしかないようですね…行きます」
+flavorangered_EN.0	"I have to win... will mean nothing unless I win."
+flavorangered_EN.1	"Further struggle is useless, I demand your surrender."
+flavorangered_EN.2	"This one is just a typical opponent, it is no true enemy."
+flavorangered_EN.3	"It seems there is no choice but to fight, after all."
 numflavor_deathJP.	2
-numflavor_deathEN.	0
-flavordeath_JP.0	「こっ、こんな所で...！」
-flavordeath_JP.1	「役立たずですいません...」
+numflavor_deathEN.	2
+flavordeath_JP.0	「こっ、こんな所で…！」
+flavordeath_JP.1	「役立たずですいません…」
+flavordeath_EN.0	"Here? In a place like this... !"
+flavordeath_EN.1	"Useless... I am sorry..."
 numflavor_killJP.	3
-numflavor_killEN.	0
-flavorkill_JP.0	「完璧な勝利です...いかがでしたか？」
+numflavor_killEN.	3
+flavorkill_JP.0	「完璧な勝利です…いかがでしたか？」
 flavorkill_JP.1	「勝利しました、評価をお願いします」
-flavorkill_JP.2	「明日は我が身...その悲鳴、忘れない」
+flavorkill_JP.2	「明日は我が身…その悲鳴、忘れない」'
+flavorkill_EN.0	"Flawless victory... how are you faring?"
+flavorkill_EN.1	"We were victorious, were we not? Please give me your evaluation."
+flavorkill_EN.2	"Tomorrow is in our hands... I will not forget that cry."
 numflavor_welcomeJP.	2
-numflavor_welcomeEN.	0
+numflavor_welcomeEN.	2
 flavorwelcome_JP.0	「また会えて嬉しいです」
-flavorwelcome_JP.1	「んん......申し訳ありません、今起きます」
+flavorwelcome_JP.1	「んん……申し訳ありません、今起きます」
+flavorwelcome_EN.0	"I am gladdened to meet you again"
+flavorwelcome_EN.1	"Mmm... I deeply apologize, I will awaken now."
