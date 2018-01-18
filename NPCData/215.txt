@@ -3,20 +3,24 @@ npcname_EN.	robber
 numflavor_passiveJP.	3
 numflavor_passiveEN.	3
 flavorpassive_JP.0	「やばいヤマだったぜ」
-flavorpassive_JP.1	「お、カモだ...」
-flavorpassive_JP.2	「ククク...」
+flavorpassive_JP.1	「お、カモだ…」
+flavorpassive_JP.2	「ククク…」
 flavorpassive_EN.0	"Man, this one'll feed me for a week. Two even!"
 flavorpassive_EN.1	"I was just sayin' we needed some coin, and look, it just came walkin' towards us."
 flavorpassive_EN.2	"Your GP or your HP good chum!"
 numflavor_angeredJP.	0
 numflavor_angeredEN.	0
 numflavor_deathJP.	2
-numflavor_deathEN.	0
+numflavor_deathEN.	2
 flavordeath_JP.0	「覚えていろよ」
 flavordeath_JP.1	「やめてください！」
+flavordeath_EN.0	"Don't forget about me"
+flavordeath_EN.1	"Please stop it!"
 numflavor_killJP.	1
-numflavor_killEN.	0
+numflavor_killEN.	1
 flavorkill_JP.0	「ふん！青二才め」
+flavorkill_EN.0	"Heh! What a greenhorn"
 numflavor_welcomeJP.	1
-numflavor_welcomeEN.	0
+numflavor_welcomeEN.	1
 flavorwelcome_JP.0	「よう、生きてたか」
+flavorwelcome_EN.0	"Really? You haven't died yet?"

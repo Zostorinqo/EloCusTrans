@@ -1,15 +1,18 @@
 npcname_JP.	ƒ”ƒ@ƒ“ƒpƒCƒA
 npcname_EN.	vampire
 numflavor_passiveJP.	1
-numflavor_passiveEN.	0
+numflavor_passiveEN.	1
 flavorpassive_JP.0	uƒJƒ‚ƒ“ƒxƒCƒx[v
+flavorpassive_EN.0	"Come on, baby"
 numflavor_angeredJP.	1
-numflavor_angeredEN.	0
+numflavor_angeredEN.	1
 flavorangered_JP.0	uURYYYYYYYYYYv
+flavorangered_EN.0	"URYYYYYYYYYY"
 numflavor_deathJP.	0
 numflavor_deathEN.	0
 numflavor_killJP.	1
-numflavor_killEN.	0
+numflavor_killEN.	1
 flavorkill_JP.0	u‚¨—‡‚¢‚¾‚Èv
+flavorkill_JP.0	"You look niice"
 numflavor_welcomeJP.	0
 numflavor_welcomeEN.	0

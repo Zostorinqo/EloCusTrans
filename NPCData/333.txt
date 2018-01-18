@@ -17,11 +17,12 @@ flavordeath_EN.0	"I was a good citizen."
 flavordeath_EN.1	"Go to hell!"
 flavordeath_EN.2	"I give up."
 flavordeath_EN.3	"Nooooo....."
-flavordeath_EN.4	"Is it a joke?"
+flavordeath_EN.4	"Is this a joke?!"
 flavordeath_EN.5	"Why me."
 flavordeath_EN.6	"W-What have you done!"
 numflavor_killJP.	0
 numflavor_killEN.	0
 numflavor_welcomeJP.	1
-numflavor_welcomeEN.	0
+numflavor_welcomeEN.	1
 flavorwelcome_JP.0	「準備はいいかい？いくぞ！」
+flavorwelcome_EN.1	"Are you ready? Here we go!"

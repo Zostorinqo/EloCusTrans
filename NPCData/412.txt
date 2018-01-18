@@ -7,8 +7,10 @@ numflavor_angeredEN.	0
 numflavor_deathJP.	1
 numflavor_deathEN.	0
 flavordeath_JP.0	「チュー！」
+flavordeath_EN.0	*SQUEAK*
 numflavor_killJP.	1
 numflavor_killEN.	0
 flavorkill_JP.0	「ハハッ」
+flavorkill_EN.0	"Ah ha ha"
 numflavor_welcomeJP.	0
 numflavor_welcomeEN.	0

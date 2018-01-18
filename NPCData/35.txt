@@ -16,17 +16,17 @@ flavorangered_EN.1	"No no!"
 flavorangered_EN.2	"You are evil."
 flavorangered_EN.3	"Pervert!"
 flavorangered_EN.4	"G-g-go away!"
-flavorangered_EN.5	"Why are you teasing me?"
+flavorangered_EN.5	"Why are you hitting me?"
 flavorangered_EN.6	"Adults."
 numflavor_deathJP.	7
 numflavor_deathEN.	7
-flavordeath_JP.0	「おかーさん...」
+flavordeath_JP.0	「おかーさん…」
 flavordeath_JP.1	「えーん」
 flavordeath_JP.2	「地獄に落ちろ！」
 flavordeath_JP.3	「わぁぁん」
 flavordeath_JP.4	「うぐぅ！」
-flavordeath_JP.5	「もっと...生きたかった...」
-flavordeath_JP.6	「先立つ不幸をお許し下さい...」
+flavordeath_JP.5	「もっと…生きたかった…」
+flavordeath_JP.6	「先立つ不幸をお許し下さい…」
 flavordeath_EN.0	"Mom...."
 flavordeath_EN.1	"A---ahh-"
 flavordeath_EN.2	"Go to hell!"
