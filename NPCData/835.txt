@@ -1,5 +1,5 @@
 npcname_JP.	エンタメイド・ペンチーフ
-npcname_EN.	performaid pinchief
+npcname_EN.	performaid penchief
 numflavor_passiveJP.	0
 numflavor_passiveEN.	0
 numflavor_angeredJP.	1

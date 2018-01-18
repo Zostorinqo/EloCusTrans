@@ -5,7 +5,7 @@ numflavor_passiveEN.	0
 numflavor_angeredJP.	1
 numflavor_angeredEN.	1
 flavorangered_JP.0	u‚Æ‚Ñ‚«‚èc“‚É‚¢‚«‚Ü‚·‚æv
-flavorangered_EN.0	"I will cruely show you only extreme cruelty"
+flavorangered_EN.0	EI will cruelly show you only extreme cruelty"
 numflavor_deathJP.	0
 numflavor_deathEN.	0
 numflavor_killJP.	1
