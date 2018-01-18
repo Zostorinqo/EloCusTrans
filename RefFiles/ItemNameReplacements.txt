@@ -1,0 +1,50 @@
+Elona+ Custom Item Name Changes
+(Going to put an X in the fourth column as a flag for any that should omit nameref2 (to skip usage of the 'of' according to the name function))
+
+(forgoing tabs now because dumb formatting)
+[ID] || [OLD] || [NEW] || [OMIT USAGE OF 'OF'] (YES if so, otherwise omitted)
+
+39 || (raw ore of) rubynus || raw rubynus ore || YES
+40 || (raw ore of) mica || mika ore || YES
+41 || (raw ore of) emerald || raw emerald ore || YES
+42 || (raw ore of) diamond || raw diamond ore || YES
+43 || wood piece || wood chips
+47 || washing || washings
+48 || bonfire || brazier stand
+56 || <Diablo> || <Diablos>
+57 || <Zantetsu> || <Zantetsuken>
+63 || <Scythe of Void> || <Scythe of the Void>
+71 || healing || vitality
+75 || healer <Eris> || white healer <Eris>
+76 || healer <Jure> || sacred healer <Jure>
+80 || boring bed || cheap bed
+81 || rag doll || plush doll
+87 || (lot of) accessories || various accessories || YES
+92 || modern chair || stylish chair
+93 || pick || pickaxe
+95 || decorative armor || ornamental armor
+97 || closed pot || sealed vase (prior item used vase instead of pot, so changed for consistency)
+98 || open pot || open vase
+99 || academic table || writing desk
+100 || (rack of) potions || potion rack || YES
+104 || barn || shed
+105 || neat shelf || tidy bookshelf
+106 || closet || storage rack
+111 || furnace || smelter
+114 || crossroad sign || signpost
+115 || board || notice board
+124 || (show case of) breads || bread display || YES
+125 || heal || life
+127 || alchemy kit || alchemy tools
+128 || pentagram || magic circle
+129 || small foliage plant || small decorative plant
+130 || rose || banks' rose
+131 || large foliage plant || large decorative plant
+135 || anemos || anemone
+138 || statue ornamented with plants || plant adorned pillar
+139	|| statue ornamented with flowers || flower adorned pillar
+140 || canvas || painting tools
+145 || decorated cloth || decorate clothing
+147 || armor || armor statue
+148 || disorderly book || disorderly books
+199 || cbocchi || squash

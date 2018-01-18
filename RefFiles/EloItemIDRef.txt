@@ -1,0 +1,204 @@
+Elona+ v1.65 Item ID Reference List
+--
+[ID-#]	[JP-Name]			[EN-Name]				[Note]
+0		黄金				gold bar				does not exist in game/debug item
+1		長剣				long sword
+2		短剣				dagger
+3		手斧				hand axe
+4		棍棒				club
+5		魔法帽				magic hat
+6		フェアリーハット			fairy hat
+7		鎧					breastplate
+8		法衣				robe
+9		細工篭手				decorated gloves
+10		厚篭手				thick gauntlets
+11		重靴				heavy boots
+12		合成靴				composite boots
+13		装飾の指輪			decorative ring
+14		鑑定の巻物			identify				scroll
+15		神託の巻物			oracle					scroll
+16		テレポートの巻物		teleportation			scroll
+17		インコグニートの巻物		incognito				scroll
+18		鑑定の杖				identify				rod
+19		テレポートの杖			teleportation			rod
+20		テレポートの魔法書		teleportation			book
+21		鑑定の魔法書			identify				book
+22		解呪の魔法書			uncurse					book
+23		本					book
+24		本					book					duplicate entry?
+25		バグの本				bugged book				error item (item generation failsafe)
+26		汚水				dirty water
+27		盲目のポーション		blindness				potion
+28		混乱のポーション		confusion				potion
+29		麻痺のポーション		paralysis				potion
+30		睡眠薬				sleeping drug			potion
+31		クリムエール			crim ale
+32		アイスボルトの魔法書		ice bolt				book
+33		ファイアボルトの魔法書 	fire bolt				book
+34		ライトニングボルトの魔法書 lightning bolt			book
+35		大地の結晶			earth crystal
+36		魔力の結晶			mana crystal
+37		太陽の結晶			sun crystal
+38		金塊				gold bar
+39		ルビナスの原石			raw rubynus ore			
+40		ミカ					mica ore
+41		エメラルドの原石		raw emerald	ore
+42		ダイヤモンドの原石		raw diamond	ore
+43		木片				wood chips
+44		クズ石				junk stone
+45		クズ					garbage
+46		割れたつぼ			broken vase
+47		洗物				washings
+48		かがり台				brazier stand
+49		旗					flag
+50		折れた刃				broken sword
+51		骨					bone fragment
+52		骸					skeleton
+53		石碑				tombstone
+54		金貨				gold piece
+55		プラチナ硬貨			platinum coin
+56		《ディアボロス》			<Diablos>
+57		《斬鉄剣》				<Zantetsuken>
+58		長弓				long bow
+59		騎士盾				knight shield
+60		拳銃				pistol
+61		矢束				arrow
+62		弾丸				bullet
+63		《虚無の大鎌》			<Scythe of the Void>
+64		《モーンブレイド》		<Mournblade>
+65		軽外套				light cloak
+66		腰当				girdle
+67		装飾首輪				decorative amulet
+68		軽傷治癒のポーション	cure minor wound		potion
+69		重傷治癒のポーション	cure major wound		potion
+70		致命傷治癒のポーション	cure critical wound		potion
+71		体力回復のポーション	vitality				potion
+72		癒し手のポーション		healer					potion
+73		《ラグナロク》			<Ragnarok>
+74		癒し手オディナのポーション healer <Odina>			potion
+75		白き癒し手エリスのポーション white healer <Eris>	potion
+76		聖なる癒し手ジュアのポーション sacred healer <Jure>	potion
+77		丸椅子				round chair
+78		普通の本棚			bookshelf
+79		高級箪笥				luxury drawer
+80		安物ベッド			cheap bed
+81		ぬいぐるみ				plush doll
+82		玩具				toy
+83		モダンテーブル			modern table
+84		ダイニングテーブル		dining table
+85		様々な鎧				armor
+86		たくさんの雑貨			goods
+87		色とりどりの装飾品		various accessories
+88		グランドピアノ			grand piano
+89		バーテーブルα			bar table alpha
+90		バーテーブルβ			bar table beta
+91		タル					barrel
+92		お洒落な椅子			stylish chair
+93		つるはし				pickaxe
+94		ランタン				lantern
+95		飾り物の鎧			ornamental armor
+96		金床				anvil
+97		密封されたつぼ			sealed vase
+98		開いているつぼ			open vase
+99		勉強机				writing desk
+100		ポーションの棚			potion rack
+101		四角い椅子			square chair
+102		安物の椅子			cheap chair
+103		食器棚				cupboard
+104		物置				shed
+105		本たてつきの棚			tidy bookshelf
+106		収納棚				storage rack
+107		いろんな道具			tools
+108		いろんな雑貨			goods
+109		井戸				well					3rd sentence untranslated
+110		いろんな洋服			clothes
+111		溶解炉				smelter
+112		オーブン				oven
+113		標識				sign
+114		道標				signpost
+115		掲示板				notice board
+116		ショートテレポートの魔法書	minor teleportation		book
+117		空のバスケット			empty basket
+118		モンスター召喚の魔法書	summon monsters			book
+119		軽傷治療の杖			cure minor wound		rod
+120		マジックミサイルの杖		magic missile			rod
+121		サモンモンスターの杖		summon monsters			rod
+122		氷の視線の杖			ice bolt				rod
+123		炎の衝撃の杖			fire bolt				rod
+124		パンの陳列棚			bread display
+125		生命の杖				life					rod
+126		ビーカー				beaker
+127		錬金術の道具			alchemy tools
+128		魔法陣				magic circle
+129		小さい観葉植物		small decorative plant
+130		木香薔薇				banks' rose
+131		大きい観葉植物		large decorative plant
+132		サルビアの花			sage
+133		ガザニアの花			gazania
+134		ネリネの花				nerine
+135		アネモネの花			anemone
+136		猫じゃらし				foxtail grass
+137		カーネーションの花		carnation
+138		植物で飾られた柱		plant adorned pillar
+139		花で飾られた柱			flower adorned pillar
+140		絵描き道具			painting tools
+141		地図				map
+142		調理機				food maker
+143		たくさんの弓			bows
+144		武器の束				weapons
+145		飾られた服			decorated clothing
+146		飾られた鎧			decorated armor
+147		鎧の像				armor statue
+148		散らかった本			disorderly books
+149		本の山				books						UNTLd
+150		名工箪笥				craft rack					UNTLd
+151		名工本棚				craft book shelf			UNTLd
+152		飲みきれないほどの酒	alcohols					UNTLd
+153		調理台				kitchen						UNTLd
+154		流し台				sink						UNTLd
+155		コンロ付き調理台		kitchen oven				UNTLd
+156		狭い食卓				narrow dining table			UNTLd
+157		上品なテーブル			elegant table				UNTLd
+158		絢爛な燭台			gorgeous candlestick		UNTLd
+159		単なる棚				simple shelf				UNTLd
+160		裁縫セット			sewing kit					UNTLd
+161		工具				carpenter's tool			UNTLd
+162		散らばった衣類			messy cloth					UNTLd
+163		絹の生地				silk cloth					UNTLd
+164		風化した墓			collapsed grave				UNTLd
+165		崩れた墓				crumbled grave				UNTLd
+166		花で飾られた墓			ornamented with flowers		UNTLd
+167		新品の墓				brand new grave				UNTLd
+168		荘厳な墓				solemn tomb					UNTLd
+169		古墳				ancient tomb				UNTLd
+170		古めかしい墓			old grave					UNTLd
+171		祭壇				altar						UNTLd
+172		儀式用の祭壇			ceremony altar				UNTLd
+173		噴水				fountain					UNTLd
+174		二段ベッド			bunk bed					UNTLd
+175		稲妻の軌跡の杖		lightning					rod
+176		鈍足の杖				slow						rod
+177		クワパナ				quwapana
+178		アロエ				aloe
+179		山菜				edible wild plant
+180		リンゴ				apple
+181		ブドウ				grape
+182		キウイ				kiwi
+183		さくらんぼ				cherry
+184		グアバ				guava
+185		キャロット				carrot
+186		大根				radish						UNTLd
+187		さつまいも				sweet potato				UNTLd
+188		レタス				lettuce						UNTLd
+189		食器の山				dish						UNTLd
+190		イーモ				imo							UNTLd
+191		アピの実				api nut						UNTLd
+192		苺					strawberry					UNTLd
+193		薬草				healthy leaf				UNTLd
+194		万色フルーツ			rainbow fruit				UNTLd
+195		クッチェ				qucche						UNTLd
+196		夏ミカン				tangerine					UNTLd
+197		レモン				lemon						UNTLd
+198		グリーンピース			green pea					UNTLd
+199		カボチ				squash						UNTLd (japanese typo, supposed to be カボチャ)
+200		ウリ					melon						UNTLd
